@@ -373,7 +373,7 @@
 
 /* From: PackageInstaller.m (installSelected)
    From: PackageInstaller.m (updateAll) */
-"Currently it is not possible to install binary packages from a remote repository as root.\nPlease use the CRAN binary of R to allow admin users to install system-wide packages without becoming root. Alternatively you can either use command-line version of R as root or install the packages from local files." = "現在のところ, リモートリポジトリからroot権限でバイナリパッケージをインストールすることはできません. \n管理者ユーザで, rootにならずにシステム全体向けのパッケージをインストールするためには, CRANのRバイナリを使用して下さい. あるいは, root権限でコマンドライン版のRを使ったり, ローカルファイルからパッケージをインストールする方法もあります. ";
+"Currently it is not possible to install binary packages from a remote repository as root.\nPlease use the CRAN binary of R to allow admin users to install system-wide packages without becoming root. Alternatively you can either use command-line version of R as root or install the packages from local files." = "現在のところ, リモートリポジトリからroot権限でバイナリパッケージをインストールすることはできません.\n管理者ユーザで, rootにならずにシステム全体向けのパッケージをインストールするためには, CRANのRバイナリを使用して下さい. あるいは, root権限でコマンドライン版のRを使ったり, ローカルファイルからパッケージをインストールする方法もあります.";
 
 /* (SyntaxColorsPrefPane) Entry = "129.title"; Class = "NSTextFieldCell" */
 "Cursor" = "カーソル";
@@ -835,7 +835,7 @@
 "Note: Change and press return" = "注: 変更してリターンを押して下さい";
 
 /* (MiscPrefPane) Entry = "135.title"; Class = "NSTextFieldCell" */
-"Note: Enforce by selecting 'Always apply'. Otherwise used to set the working directory if not specified when R.app is started, e.g. double clicking the R icon. Drag & drop of a file or a directory on the R icon or using 'open -a R.app <dir-or-file>' will override this setting if not enforced." = "注: '常に適用'を選択するとこの値が常に強制されます. そうでない場合は, R.app の起動時に明示的に指定されていない場合(RアプリアイコンをダブルクリックしてRを起動した場合など)にこの値が使われます. すなわち, Rアプリアイコンにファイルやディレクトリをドラッグ&ドロップして起動したり, 'open -a R.app <ディレクトリやファイル>'としてRを起動した場合はこの値は使われません. ";
+"Note: Enforce by selecting 'Always apply'. Otherwise used to set the working directory if not specified when R.app is started, e.g. double clicking the R icon. Drag & drop of a file or a directory on the R icon or using 'open -a R.app <dir-or-file>' will override this setting if not enforced." = "注: '常に適用'を選択するとこの値が常に強制されます. そうでない場合は, R.app の起動時に明示的に指定されていない場合(RアプリアイコンをダブルクリックしてRを起動した場合など)にこの値が使われます. すなわち, Rアプリアイコンにファイルやディレクトリをドラッグ&ドロップして起動したり, 'open -a R.app <ディレクトリやファイル>'としてRを起動した場合はこの値は使われません.";
 
 /* (MiscPrefPane) Entry = "131.title"; Class = "NSTextFieldCell" */
 "Note: This change is effective only after a restart of R.app" = "注: 変更はR.appを再起動した後に有効になります";
@@ -1518,7 +1518,7 @@
 "Use Selection for Find" = "選択部分を用いて検索";
 
 /* (MainMenu) Entry = "565.ibShadowedToolTip"; Class = "NSButton" */
-"User Should Specify The Package Format For Non-Default Repositories. Usually Archives With \".tar.gz\" Extension Are In \"Source Format\", Packages With \".tgz\" Extesion Are In \"Binary Format\".  " = "デフォルト以外のリポジトリを用いる場合には、パッケージフォーマットを指定する必要があります. 通常、拡張子 \".tar.gz\" のアーカイブは「ソース形式」, 拡張子 \".tgz\" のパッケージは「バイナリ形式」です. ";
+"User Should Specify The Package Format For Non-Default Repositories. Usually Archives With \".tar.gz\" Extension Are In \"Source Format\", Packages With \".tgz\" Extesion Are In \"Binary Format\".  " = "デフォルト以外のリポジトリを用いる場合には、パッケージフォーマットを指定する必要があります. 通常、拡張子 \".tar.gz\" のアーカイブは「ソース形式」, 拡張子 \".tgz\" のパッケージは「バイナリ形式」です.  ";
 
 /* From: NSString_RAdditions.m (evaluateAsBashCommandWithEnvironment) */
 "User Termination" = "ユーザによる中断";
@@ -1632,4 +1632,5 @@
 
 /* From: RController.m (searchInHistory) */
 "…invalid regular expression" = "…誤った正規表現です";
+
 
