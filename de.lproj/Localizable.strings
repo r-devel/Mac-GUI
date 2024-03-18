@@ -440,7 +440,7 @@
 "Don't Save" = "Nicht speichern";
 
 /* (MainMenu) Entry = "502.ibShadowedToolTip"; Class = "NSScrollView" */
-"Double click to load data in the R workspace. " = "Doppelklicken Sie, um ein Paket in den aktuellen Arbeitsbereich zu laden.";
+"Double click to load data in the R workspace. " = "Doppelklicken Sie, um ein Paket in den aktuellen Arbeitsbereich zu laden. ";
 
 /* (MainMenu) Entry = "577.ibShadowedToolTip"; Class = "NSButton" */
 "Downloads Selected Packages And Installs In Selected Location (↩)." = "Lädt ausgewählte Pakete herunter und installiert sie (↩).";
@@ -843,7 +843,7 @@
 "Note: Use a fixed path to always use the same history file, e.g. ~/.Rhistory" = "Tip: Verwenden Sie einen absoluten Pfad, um immer dieselbe Verlaufdatei zu verwenden, z.B. ~/.Rhistory";
 
 /* (EditorPrefPane) Entry = "161.title"; Class = "NSTextFieldCell" */
-"Note:\nCommand is executed in a shell" = "Hinweis:\nDer Befehl wird in der “Shell” ausgeführt.";
+"Note:\nCommand is executed in a shell" = "Hinweis:\nDer Befehl wird in der “Shell” ausgeführt";
 
 /* (SyntaxColorsPrefPane) Entry = "114.title"; Class = "NSTextFieldCell" */
 "Number" = "Zahlen";
@@ -1020,7 +1020,7 @@
 "Print…" = "Drucken…";
 
 /* (ColorsPrefPane) Entry = "72.title"; Class = "NSTextFieldCell" */
-"Prompt" = "Eingabeauff.";
+"Prompt" = "Eingabeauff";
 
 /* From: RController.m (toolbar) */
 "Quartz" = "Quartz";
@@ -1261,7 +1261,7 @@
 "Select Package Directory" = "Wählen Sie das Paketverzeichnis";
 
 /* (MainMenu) Entry = "547.ibShadowedToolTip"; Class = "NSScrollView" */
-"Select Packages You Want To Install Or Update. Multiple Selections Allowed. " = "Wählen Sie Pakete, die installiert werden sollen. Mehrfachwahl ist erlaubt.";
+"Select Packages You Want To Install Or Update. Multiple Selections Allowed. " = "Wählen Sie Pakete, die installiert werden sollen. Mehrfachwahl ist erlaubt. ";
 
 /* (MainMenu) Entry = "573.ibShadowedToolTip"; Class = "NSMatrix" */
 "Select The Appropriate Location. Non-Admin User Should Select \"At User Level\"." = "Wählen Sie das gewünschte Zielverzeichnis.";
@@ -1457,7 +1457,7 @@
 "Transparency :" = "Transparenz:";
 
 /* (MainMenu) Entry = "545.ibShadowedToolTip"; Class = "NSButton" */
-"Try To Download The List Of Packages From The Specified URL" = "Pakete von der angegebenen URL herunterladen.";
+"Try To Download The List Of Packages From The Specified URL" = "Pakete von der angegebenen URL herunterladen";
 
 /* (MainMenu) Entry = "668.headerCell.title"; Class = "NSTableColumn" */
 "Type" = "Typ";
@@ -1517,7 +1517,7 @@
 "Use Selection for Find" = "Auswahl suchen";
 
 /* (MainMenu) Entry = "565.ibShadowedToolTip"; Class = "NSButton" */
-"User Should Specify The Package Format For Non-Default Repositories. Usually Archives With \".tar.gz\" Extension Are In \"Source Format\", Packages With \".tgz\" Extesion Are In \"Binary Format\".  " = "Das Format der Pakete sollte ausgewählt werden.";
+"User Should Specify The Package Format For Non-Default Repositories. Usually Archives With \".tar.gz\" Extension Are In \"Source Format\", Packages With \".tgz\" Extesion Are In \"Binary Format\".  " = "Das Format der Pakete sollte ausgewählt werden.  ";
 
 /* From: NSString_RAdditions.m (evaluateAsBashCommandWithEnvironment) */
 "User Termination" = "User Termination";
@@ -1630,4 +1630,5 @@
 
 /* From: RController.m (searchInHistory) */
 "…invalid regular expression" = "…ungültiger regulärer Ausdruck";
+
 
