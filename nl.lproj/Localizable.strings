@@ -613,7 +613,7 @@
 "Help Search Topics" = "Help zoekonderwerpen";
 
 /* From: RController.m (handleCustomPrint) */
-"Help for the topic \"%@\" was not found." = "Help over het onderwerp \"%@\"  werd niet gevonden.";
+"Help for the topic \"%@\" was not found." = "Help over het onderwerp \"%@\" werd niet gevonden.";
 
 /* (RDocument) Entry = "92.placeholderString"; Class = "NSSearchFieldCell" */
 "Help search" = "Help zoeken";
@@ -835,7 +835,7 @@
 "Note: Change and press return" = "Opm.: Wijzig en toets enter";
 
 /* (MiscPrefPane) Entry = "135.title"; Class = "NSTextFieldCell" */
-"Note: Enforce by selecting 'Always apply'. Otherwise used to set the working directory if not specified when R.app is started, e.g. double clicking the R icon. Drag & drop of a file or a directory on the R icon or using 'open -a R.app <dir-or-file>' will override this setting if not enforced." = "Opm.: Selecteer 'Altijd toepassen'. Anders zullen andere methodes om de werkmap in te stellen voorrang krijgen, bvb. door op het R-icoon te dubbelklikken. Door een map op het R-icoon te slepen of door  'open -a R.app <dir-or-file>' te gebruiken.";
+"Note: Enforce by selecting 'Always apply'. Otherwise used to set the working directory if not specified when R.app is started, e.g. double clicking the R icon. Drag & drop of a file or a directory on the R icon or using 'open -a R.app <dir-or-file>' will override this setting if not enforced." = "Opm.: Selecteer 'Altijd toepassen'. Anders zullen andere methodes om de werkmap in te stellen voorrang krijgen, bvb. door op het R-icoon te dubbelklikken. Door een map op het R-icoon te slepen of door 'open -a R.app <dir-or-file>' te gebruiken.";
 
 /* (MiscPrefPane) Entry = "131.title"; Class = "NSTextFieldCell" */
 "Note: This change is effective only after a restart of R.app" = "Opm.: Deze wijziging gaat pas in na het herstarten van R.app";
@@ -1280,7 +1280,7 @@
 "Select one or more" = "Selecteer één of meerdere";
 
 /* From: PackageInstaller.m (awakeFromNib) */
-"Select packages from R %@" = "Selecteer R pakketten van ";
+"Select packages from R %@" = "Selecteer R pakketten van";
 
 /* (MainMenu) Entry = "1113.title"; Class = "NSMenuItem" */
 "Select packages from previous R" = "Selecteer pakketten van vorige R";
@@ -1625,11 +1625,12 @@
 "press ⌘. to cancel" = "press ⌘. to cancel";
 
 /* (QuartzPrefPane) Entry = "114.title"; Class = "NSTextFieldCell" */
-"width (inches):" = "breedte (inches):\n";
+"width (inches):" = "breedte (inches):";
 
 /* (MiscPrefPane) Entry = "134.title"; Class = "NSTextFieldCell" */
 "~" = "~";
 
 /* From: RController.m (searchInHistory) */
 "…invalid regular expression" = "…geen goede reguliere expressie";
+
 
