@@ -662,7 +662,7 @@
 "Install Dependencies" = "Installer les dépendances";
 
 /* (MainMenu) Entry = "570.title"; Class = "NSBox" */
-"Install Location" = "Emplacement de l'Installation ";
+"Install Location" = "Emplacement de l'Installation";
 
 /* From: PackageInstaller.m (setURL) */
 /* (MainMenu) Entry = "1508.title"; Class = "NSButtonCell" */
@@ -1250,7 +1250,7 @@
 "Select Package Directory" = "Sélectionner le répertoire de Package";
 
 /* (MainMenu) Entry = "547.ibShadowedToolTip"; Class = "NSScrollView" */
-"Select Packages You Want To Install Or Update. Multiple Selections Allowed. " = "Sélectionner les packages pour installation ou mise à jour. Sélections multiples autorisées.";
+"Select Packages You Want To Install Or Update. Multiple Selections Allowed. " = "Sélectionner les packages pour installation ou mise à jour. Sélections multiples autorisées. ";
 
 /* (MainMenu) Entry = "573.ibShadowedToolTip"; Class = "NSMatrix" */
 "Select The Appropriate Location. Non-Admin User Should Select \"At User Level\"." = "Sélectionner l'endroit approprié. Pour les non-administrateurs sélectionner \"Au Niveau Utilisateur\".";
@@ -1494,10 +1494,10 @@
 "Use None" = "Rien Utiliser";
 
 /* (MainMenu) Entry = "161.title"; Class = "NSMenuItem" */
-"Use Selection for Find" = "Utiliser la  Sélection pour Recherche";
+"Use Selection for Find" = "Utiliser la Sélection pour Recherche";
 
 /* (MainMenu) Entry = "565.ibShadowedToolTip"; Class = "NSButton" */
-"User Should Specify The Package Format For Non-Default Repositories. Usually Archives With \".tar.gz\" Extension Are In \"Source Format\", Packages With \".tgz\" Extesion Are In \"Binary Format\".  " = "Il est conseillé de spécifier le format du package s'il n'est pas standard. En général les archives avec l'extension \".tar.gz\" sont au \"Format Source\" alors que l'extension \".tgz\" indique un Format Binaire\".";
+"User Should Specify The Package Format For Non-Default Repositories. Usually Archives With \".tar.gz\" Extension Are In \"Source Format\", Packages With \".tgz\" Extesion Are In \"Binary Format\".  " = "Il est conseillé de spécifier le format du package s'il n'est pas standard. En général les archives avec l'extension \".tar.gz\" sont au \"Format Source\" alors que l'extension \".tgz\" indique un Format Binaire\".  ";
 
 /* From: NSString_RAdditions.m (evaluateAsBashCommandWithEnvironment) */
 "User Termination" = "User Termination";
@@ -1610,4 +1610,5 @@
 
 /* From: RController.m (searchInHistory) */
 "…invalid regular expression" = "…invalid regular expression";
+
 
