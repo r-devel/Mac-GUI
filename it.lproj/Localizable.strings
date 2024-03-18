@@ -907,7 +907,7 @@
 "Output" = "Output";
 
 /* (QuartzPrefPane) Entry = "111.title"; Class = "NSButtonCell" */
-"Override R Quartz width/height parameters" = "Sovrascrive i parametri R di width/height di Quartz ";
+"Override R Quartz width/height parameters" = "Sovrascrive i parametri R di width/height di Quartz";
 
 /* (RDocument) Entry = "159.title"; Class = "NSMenuItem" */
 "PDF Preview" = "PDF Preview";
@@ -1630,4 +1630,5 @@
 
 /* From: RController.m (searchInHistory) */
 "…invalid regular expression" = "…invalid regular expression";
+
 
