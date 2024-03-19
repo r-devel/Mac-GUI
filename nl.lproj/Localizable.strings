@@ -1540,7 +1540,7 @@
 "WARNING: You're using a non-UTF8 locale, therefore only ASCII characters will work.\nPlease read R for Mac OS X FAQ (see Help) section 9 and adjust your system preferences accordingly.\n" = "WAARSCHUWING: U gebruikt een non-UTF8 locale, alleen ASCII characters zullen werken.\nRaadpleeg de R for Mac OS X FAQ (zie Help) section 9 en pas Uw system preferences aan.\n";
 
 /* (MainMenu) Entry = "333.title"; Class = "NSMenuItem" */
-"What's New In This Version?" = "Wat is er nieuw in deze versie";
+"What's New In This Version?" = "Wat is er nieuw in deze versie?";
 
 /* (MainMenu) Entry = "1027.title"; Class = "NSWindow" */
 /* (MainMenu) Entry = "24.title"; Class = "NSMenu" */
@@ -1632,5 +1632,6 @@
 
 /* From: RController.m (searchInHistory) */
 "…invalid regular expression" = "…geen goede reguliere expressie";
+
 
 
