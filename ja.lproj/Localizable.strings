@@ -1634,3 +1634,10 @@
 "…invalid regular expression" = "…誤った正規表現です";
 
 
+
+
+/* (EncodingPopupView) Entry = "59.title"; Class = "NSMenuItem" */
+"DO NOT LOCALIZE" = "DO NOT LOCALIZE";
+
+/* (EncodingPopupView) Entry = "60.ibShadowedToolTip"; Class = "NSPopUpButton" */
+"Encoding to use if there is no encoding specified with the file." = "ファイルにエンコードが指定されていない場合に使用するエンコード。";
