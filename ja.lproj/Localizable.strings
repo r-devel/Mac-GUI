@@ -589,7 +589,7 @@
 "Get Working Directory" = "現在の作業ディレクトリを調べる";
 
 /* (MainMenu) Entry = "1049.title"; Class = "NSMenuItem" */
-"Go To Line…" = "指定行へ";
+"Go To Line…" = "指定行へ…";
 
 /* (RDocument) Entry = "96.title"; Class = "NSTextFieldCell" */
 "Go to line:" = "指定行へ:";
@@ -1003,7 +1003,7 @@
 "PrefP-Startup" = "起動";
 
 /* Syntax colors preference pane */
-"PrefP-Syntax" = "構文カラー";
+"PrefP-Syntax" = "構文\nカラー";
 
 /* From: AMPrefs/AMPreferenceWindowController.m (initWithAutosaveName) */
 "Preferences" = "環境設定";
