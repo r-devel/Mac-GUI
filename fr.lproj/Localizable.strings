@@ -71,10 +71,10 @@
 "Add Column" = "Insérer Colonne";
 
 /* (MainMenu) Entry = "1719.title"; Class = "NSMenuItem" */
-"Add Column (CHARACTER)" = "Add Column (CHARACTER)";
+"Add Column (CHARACTER)" = "Ajouter une colonne (CARACTÈRE)";
 
 /* (MainMenu) Entry = "1718.title"; Class = "NSMenuItem" */
-"Add Column (NUMERIC)" = "Add Column (NUMERIC)";
+"Add Column (NUMERIC)" = "Ajouter une colonne (NUMÉRIQUE)";
 
 /* From: REditor.m (toolbar) */
 "Add New Row" = "Insérer Ligne";
@@ -1624,10 +1624,16 @@
 "Transparency :" = "Transparence :";
 
 /* (EncodingPopupView) Entry = "60.ibShadowedToolTip"; Class = "NSPopUpButton" */
-"Encoding to use if there is no encoding specified with the file." = "Encodage à utiliser s’il n’y a pas d’encodage spécifié avec le fichier.";
+"Encoding to use if there is no encoding specified with the file." = "Codage à utiliser si aucun codage n’est spécifié avec le fichier.";
 
 /* (ColorsPrefPane) Entry = "75.title"; Class = "NSTextFieldCell" */
 "Stderr" = "Stderr";
 
 /* (EncodingPopupView) Entry = "59.title"; Class = "NSMenuItem" */
 "DO NOT LOCALIZE" = "NE PAS LOCALISER";
+
+/* (ColorsPrefPane) Entry = "77.title"; Class = "NSTextFieldCell" */
+"Stdout" = "Stdout";
+
+/* (ColorsPrefPane) Entry = "72.title"; Class = "NSTextFieldCell" */
+"Prompt" = "invite";
