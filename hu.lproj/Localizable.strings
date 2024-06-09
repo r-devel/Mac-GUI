@@ -1,1 +1,435 @@
 
+
+
+/* From: Quartz/QuartzDevice.m (setDefaultSyntaxColors) */
+"%@ - Inactive" = "%@ – Inaktív";
+
+/* From: RController.m (hintForFunction)
+   From: RDocumentWinCtrl.m (hintForFunction) */
+"(arguments lookup is disabled while R is busy)" = "(az argumentumok keresése le van tiltva, amíg R foglalt)";
+
+/* From: REditor.m (toolbar) */
+"Add New Row" = "Új sor hozzáadása";
+
+/* From: REditor.m (toolbar) */
+"Adds a row below a group of selected rows or at the bottom of the data" = "Hozzáad egy sort a kijelölt sorok csoportja alá vagy az adatok aljára";
+
+/* From: WSBrowser.m (remObject) */
+"Are you sure you want to remove object '%@' from the workspace? You cannot undo this action!" = "Biztosan el szeretné távolítani a(z) \"%@\" objektumot a munkaterületről? Ezt a műveletet nem vonhatja vissza!";
+
+/* (QuartzPrefPane) Entry = "32.title"; Class = "NSMenuItem" */
+"Bottom Right" = "Jobb alsó sarok";
+
+/* (RDocument) Entry = "113.title"; Class = "NSMenuItem" */
+"CP1251" = "CP1251";
+
+/* (MainMenu) Entry = "541.title"; Class = "NSMenuItem" */
+"CRAN (binaries)" = "CRAN (bináris)";
+
+/* From: RController.m (didCloseAll) */
+/* (MainMenu) Entry = "1515.title"; Class = "NSButtonCell" */
+/* (RDocument) Entry = "94.title"; Class = "NSButtonCell" */
+"Cancel" = "Érvénytelenít";
+
+/* From: REditor.m (toolbar) */
+/* (MainMenu) Entry = "1723.ibShadowedToolTip"; Class = "NSMenuItem" */
+"Cancels object editing without passing data back to R and closes the editor window" = "Megszakítja az objektumszerkesztést anélkül, hogy visszaadná az adatokat az R-nek, és bezárja a szerkesztőablakot";
+
+/* (MainMenu) Entry = "1066.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "1076.title"; Class = "NSMenuItem" */
+/* (RDocument) Entry = "83.title"; Class = "NSMenuItem" */
+"Clear" = "Világos";
+
+/* (MainMenu) Entry = "1580.title"; Class = "NSButtonCell" */
+/* (MainMenu) Entry = "73.title"; Class = "NSMenuItem" */
+"Close" = "Bezár";
+
+/* (MainMenu) Entry = "1758.title"; Class = "NSMenu" */
+/* (MainMenu) Entry = "1757.title"; Class = "NSMenuItem" */
+"Code Folding Submenu" = "Kódhajtogatási almenü";
+
+/* From: REditor.m (toolbar) */
+"Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%@)\tAdd column of type ‘CHARACTER’\n(%@)\tAdd column of type ‘NUMERIC’" = "Új oszlopot ad hozzá a kijelölt oszlopok csoportjától jobbra vagy közvetlenül az adatok végéhez. Az új oszloptípus megfelel a tőle balra lévő oszlopnak.\n\n(%1$@)\t\"KARAKTER\" típusú oszlop hozzáadása\n(%2$@)\t\"NUMERIC\" típusú oszlop hozzáadása";
+
+/* From: RDocument.m (reinterpretInEncoding) */
+"Couldn't reinterpret the text by using the encoding" = "Nem sikerült újraértelmezni a szöveget a kódolás használatával";
+
+/* (MiscPrefPane) Entry = "138.title"; Class = "NSButtonCell" */
+"Default" = "Alapértelmezett";
+
+/* (MiscPrefPane) Entry = "23.title"; Class = "NSBox" */
+"Default Library Paths" = "Alapértelmezett könyvtárelérési utak";
+
+/* (MainMenu) Entry = "1496.title"; Class = "NSButtonCell" */
+"Delete entry" = "Bejegyzés törlése";
+
+/* (MainMenu) Entry = "447.headerCell.title"; Class = "NSTableColumn" */
+/* (MainMenu) Entry = "504.headerCell.title"; Class = "NSTableColumn" */
+/* (MainMenu) Entry = "701.headerCell.title"; Class = "NSTableColumn" */
+/* (Vignettes) Entry = "94.headerCell.title"; Class = "NSTableColumn" */
+"Description" = "Leírás: __________";
+
+/* (MainMenu) Entry = "1684.ibShadowedToolTip"; Class = "NSButton" */
+"(Return)" = "↩";
+
+/* (MiscPrefPane) Entry = "130.title"; Class = "NSTextFieldCell" */
+"(was default in RAqua)" = "alapértelmezett volt a RAqua-ban)";
+
+/* (MainMenu) Entry = "1677.ibShadowedToolTip"; Class = "NSButton" */
+"(⌘R)" = "(⌘R)";
+
+/* (MiscPrefPane) Entry = "139.title"; Class = "NSTextFieldCell" */
+".Rhistory" = ". Történelem";
+
+/* (MainMenu) Entry = "1499.title"; Class = "NSTextFieldCell" */
+"11" = "11";
+
+/* (QuartzPrefPane) Entry = "122.title"; Class = "NSTextFieldCell" */
+"12" = "12";
+
+/* (MiscPrefPane) Entry = "144.title"; Class = "NSTextFieldCell" */
+"250" = "250";
+
+/* (QuartzPrefPane) Entry = "112.title"; Class = "NSTextFieldCell" */
+/* (QuartzPrefPane) Entry = "113.title"; Class = "NSTextFieldCell" */
+"5.0" = "5.0";
+
+/* (MainMenu) Entry = "1501.title"; Class = "NSButtonCell" */
+"< Back" = "< Vissza";
+
+/* From: RController.m (showWorkingDir) */
+"<deleted>" = "< törölve>";
+
+/* From: RDocumentWinCtrl.m (functionReset) */
+/* (RDocument) Entry = "45.title"; Class = "NSMenuItem" */
+"<functions>" = "< függvények>";
+
+/* From: RDocumentWinCtrl.m (functionReset) */
+"<sections>" = "< függvények>";
+
+/* From: SearchTable.m (show) */
+"<unknown>" = "<unknown>";
+
+/* (MainMenu) Entry = "1514.title"; Class = "NSButtonCell" */
+">" = ">";
+
+/* (MainMenu) Entry = "58.title"; Class = "NSMenuItem" */
+"About R" = "Az R-ről";
+
+/* (MainMenu) Entry = "312.title"; Class = "NSMenuItem" */
+"Activate Quartz Device Window" = "Aktiválja a kvarc eszköz ablakát";
+
+/* (MainMenu) Entry = "1671.title"; Class = "NSButtonCell" */
+"Activate SearchField ⇧⌘H" = "A SearchField aktiválása ⇧⌘H";
+
+/* Add column - label for a toolbar, keep short! */
+"Add Col" = "Col hozzáadása";
+
+/* From: REditor.m (toolbar) */
+"Add Column" = "Oszlop hozzáadása";
+
+/* (MainMenu) Entry = "1719.title"; Class = "NSMenuItem" */
+"Add Column (CHARACTER)" = "Oszlop hozzáadása (KARAKTER)";
+
+/* (MainMenu) Entry = "1718.title"; Class = "NSMenuItem" */
+"Add Column (NUMERIC)" = "Oszlop hozzáadása (NUMERIC)";
+/* From: Quartz/QuartzDevice.m (setDefaultSyntaxColors) */
+"%@ - Active" = "%@ – Aktív";
+
+/* (MainMenu) Entry = "1513.title"; Class = "NSButtonCell" */
+"<" = "<";
+
+/* Add row - label for a toolbar, keep short! */
+/* (MainMenu) Entry = "1720.title"; Class = "NSMenuItem" */
+"Add Row" = "Sor hozzáadása";
+
+/* (MiscPrefPane) Entry = "129.title"; Class = "NSButtonCell" */
+"Add ~/Library/R…" = "~/Library/R…";
+
+/* (MainMenu) Entry = "834.title"; Class = "NSMenuItem" */
+"Align Left" = "Balra igazítás";
+
+/* (MainMenu) Entry = "858.title"; Class = "NSMenuItem" */
+"Align Right" = "Jobbra igazítás";
+
+/* (MainMenu) Entry = "1634.title"; Class = "NSMenuItem" */
+"All" = "Összes";
+
+/* From: RController.m (clearWorkSpace) */
+"All objects in the workspace will be removed. Are you sure you want to proceed?" = "A munkaterület összes objektuma el lesz távolítva. Biztos, hogy folytatni akarja?";
+
+/* (MiscPrefPane) Entry = "136.title"; Class = "NSButtonCell" */
+"Always apply" = "Mindig alkalmazza";
+
+/* (EditorPrefPane) Entry = "49.title"; Class = "NSButtonCell" */
+"Application" = "Alkalmazás";
+
+/* (MainMenu) Entry = "1125.title"; Class = "NSButtonCell" */
+"As defined by .libPaths()" = ".libPaths() függvény meghatározása szerint";
+
+/* (MiscPrefPane) Entry = "123.title"; Class = "NSButtonCell" */
+"Ask" = "Kérdez";
+
+/* (MainMenu) Entry = "1122.title"; Class = "NSButtonCell" */
+"At System Level (in R framework)" = "Rendszerszinten (R keretrendszerben)";
+
+/* (MainMenu) Entry = "1123.title"; Class = "NSButtonCell" */
+"At User Level" = "Felhasználói szinten";
+
+/* From: RController.m (toolbar) */
+"Authentication" = "Hitelesítés";
+
+/* From: RController.m (toolbar) */
+"Authorize R to run system commands as root" = "Az R engedélyezése rendszerparancsok root felhasználóként való futtatására";
+
+/* (EditorPrefPane) Entry = "229.title"; Class = "NSButtonCell" */
+"Auto-save documents" = "Dokumentumok automatikus mentése";
+
+/* (MainMenu) Entry = "1513.alternateTitle"; Class = "NSButtonCell" */
+"Back" = "Hát";
+
+/* (ColorsPrefPane) Entry = "76.title"; Class = "NSTextFieldCell" */
+/* (SyntaxColorsPrefPane) Entry = "125.title"; Class = "NSTextFieldCell" */
+"Background" = "Háttér";
+
+/* (MainMenu) Entry = "1657.title"; Class = "NSMenuItem" */
+"Balanced Brackets" = "Kiegyensúlyozott konzolok";
+
+/* (MainMenu) Entry = "816.title"; Class = "NSMenu" */
+/* (MainMenu) Entry = "844.title"; Class = "NSMenuItem" */
+"Baseline" = "Alapvonal";
+
+/* (MainMenu) Entry = "830.title"; Class = "NSMenuItem" */
+"Bigger" = "Nagyobb";
+
+/* (MainMenu) Entry = "1506.title"; Class = "NSButtonCell" */
+"Binary Format Packages" = "Bináris formátumú csomagok";
+
+/* (MainMenu) Entry = "542.title"; Class = "NSMenuItem" */
+"BioConductor (binaries)" = "BioConductor (binárisok)";
+
+/* (MainMenu) Entry = "563.title"; Class = "NSMenuItem" */
+"BioConductor (sources)" = "BioConductor (binárisok)";
+
+/* (MainMenu) Entry = "849.title"; Class = "NSMenuItem" */
+"Bold" = "Merész";
+
+/* (QuartzPrefPane) Entry = "31.title"; Class = "NSMenuItem" */
+"Bottom Left" = "Bal alsó sarok";
+
+/* (QuartzPrefPane) Entry = "45.title"; Class = "NSBox" */
+"Box" = "Doboz";
+
+/* (MainMenu) Entry = "5.title"; Class = "NSMenuItem" */
+"Bring All to Front" = "Hozz mindent előre";
+
+/* (EditorPrefPane) Entry = "96.title"; Class = "NSButtonCell" */
+"Built-in editor" = "Beépített szerkesztő";
+
+/* (EditorPrefPane) Entry = "35.title"; Class = "NSBox" */
+"Built-in editor preferences" = "Beépített szerkesztői beállítások";
+
+/* (RDocument) Entry = "115.title"; Class = "NSMenuItem" */
+"CP1250" = "CP1250";
+
+/* (RDocument) Entry = "114.title"; Class = "NSMenuItem" */
+"CP1252" = "CP1252";
+
+/* (MainMenu) Entry = "1108.title"; Class = "NSMenuItem" */
+"CRAN (sources)" = "CRAN (források)";
+
+/* From: HelpManager.m (showHelpFor) */
+"Can't find help for topic, would you like to expand the search?" = "Nem talál segítséget a témához, szeretné bővíteni a keresést?";
+
+/* From: RController.m (doLoadHistory) */
+"Can't open history file %@" = "Nem lehet megnyitni az előzményfájl % @";
+
+/* Cancel Editing - label for a toolbar, keep short!
+   From: REditor.m (toolbar) */
+"Cancel Editing" = "Szerkesztés megszakítása";
+
+/* (MainMenu) Entry = "1723.title"; Class = "NSMenuItem" */
+"Cancel Object Editing" = "Objektumszerkesztés megszakítása";
+
+/* From: RDocumentWinCtrl.m (goHelpSearch) */
+"Cannot determine package for the topic." = "Nem határozható meg a témakör csomagja.";
+
+/* From: DataManager.m (showHelp)
+   From: HelpManager.m (showHelpUsingFile)
+   From: PackageManager.m (showInfo)
+   From: RDocumentWinCtrl.m (goHelpSearch) */
+"Cannot start HTML help server." = "A HTML-súgókiszolgáló nem indítható el.";
+
+/* From: main.m (sheetDidEnd) */
+"Cannot start R" = "Az R nem indítható el";
+
+/* (MainMenu) Entry = "829.title"; Class = "NSMenuItem" */
+"Center" = "Központ";
+
+/* (QuartzPrefPane) Entry = "37.title"; Class = "NSMenuItem" */
+"Centered" = "Központú";
+
+/* (MiscPrefPane) Entry = "133.title"; Class = "NSButtonCell" */
+/* (QuartzPrefPane) Entry = "120.title"; Class = "NSButtonCell" */
+"Change" = "Változás";
+
+/* (MainMenu) Entry = "322.title"; Class = "NSMenuItem" */
+"Change Working Directory..." = "Munkakönyvtár módosítása...";
+
+/* From: RController.m (toolbar) */
+"Change the size of R console font" = "Az R-konzol betűtípusának méretének módosítása";
+
+/* (MainMenu) Entry = "218.title"; Class = "NSMenuItem" */
+"Check For R Updates" = "R-frissítések keresése";
+
+/* (RDocument) Entry = "161.title"; Class = "NSMenuItem" */
+"Check Rd Document" = "Ellenőrizze az RD dokumentumot";
+
+/* From: RDocument.m (checkRdDocumentWithFilePath) */
+"Check Rd document…" = "Ellenőrizze az Rd dokumentumot …";
+
+/* From: RDocument.m (checkRdDocumentWithFilePath) */
+"Check was successful." = "Az ellenőrzés sikeres volt.";
+
+/* From: RController.m (handleChooseFile)
+   From: RController.m (openDocument) */
+"Choose File" = "Válassza a Fájl lehetőséget";
+
+/* From: PrefPanes/MiscPrefPane.m (chooseWorkingDir) */
+"Choose Initial Working Directory" = "Objektumszerkesztés megszakítása";
+
+/* From: RController.m (setWorkingDir) */
+"Choose New Working Directory" = "csomagja.Válassza az Új munkakönyvtár lehetőséget";
+
+/* From: RController.m (doLoadHistory) */
+"Choose history File" = "Válassza ki az előzményfájlt";
+
+/* (MiscPrefPane) Entry = "145.title"; Class = "NSButtonCell" */
+"Cleanup history entries" = "Tisztítási előzménybejegyzések";
+
+/* (MainMenu) Entry = "1128.title"; Class = "NSMenuItem" */
+"Clear Console" = "Konzol törlése";
+
+/* (MainMenu) Entry = "1495.title"; Class = "NSButtonCell" */
+"Clear History" = "Előzmények törlése";
+
+/* (MainMenu) Entry = "126.title"; Class = "NSMenuItem" */
+"Clear Menu" = "Menü törlése";
+
+/* From: RController.m (clearWorkSpace) */
+/* (MainMenu) Entry = "243.title"; Class = "NSMenuItem" */
+"Clear Workspace" = "Munkaterület törlése";
+
+/* (SelectEncodingsPanel) Entry = "23.title"; Class = "NSButtonCell" */
+"Clear all" = "Az összes törlése";
+
+/* From: RController.m (handleChooseFile) */
+"Choose New File Name" = "Válassza az Új fájlnév lehetőséget";
+
+/* (MainMenu) Entry = "1577.ibShadowedToolTip"; Class = "NSButton" */
+"Close Find Panel (⎋)" = "A Keresés panel bezárása (⎋";
+
+/* From: RController.m (didCloseAll) */
+"Closing R session" = "R-munkamenet lezárása";
+
+/* (ColorsPrefPane) Entry = "26.title"; Class = "NSBox" */
+/* (SyntaxColorsPrefPane) Entry = "26.title"; Class = "NSBox" */
+"Colors" = "Színek";
+
+/* (EditorPrefPane) Entry = "47.title"; Class = "NSButtonCell" */
+"Command" = "Parancs";
+
+/* (MainMenu) Entry = "342.headerCell.title"; Class = "NSTableColumn" */
+"Commands" = "Parancsok";
+
+/* (SyntaxColorsPrefPane) Entry = "119.title"; Class = "NSTextFieldCell" */
+"Comment" = "Megjegyzés";
+
+/* (MainMenu) Entry = "1207.title"; Class = "NSMenuItem" */
+"Comment-out" = "Hozzászólás";
+
+/* (MainMenu) Entry = "1013.title"; Class = "NSMenuItem" */
+"Complete" = "Teljes";
+
+/* (RConsole) Entry = "5.title"; Class = "NSWindow" */
+"Console" = "Vigasztal";
+
+/* From: RDocument.m (reinterpretInEncoding) */
+"Convertion Error" = "Konvertálási hiba";
+
+/* (MainMenu) Entry = "157.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "1729.title"; Class = "NSMenuItem" */
+"Copy" = "Másolat";
+
+/* (MainMenu) Entry = "822.title"; Class = "NSMenuItem" */
+"Copy Ruler" = "Vonalzó másolása";
+
+/* (MainMenu) Entry = "859.title"; Class = "NSMenuItem" */
+"Copy Style" = "Stílus másolása";
+
+/* (MainMenu) Entry = "1730.title"; Class = "NSMenuItem" */
+"Copy as CSV" = "Másolás CSV-fájlként";
+
+/* From: RDocument.m (revertToContentsOfURL) */
+"Couldn't revert to saved document" = "Nem sikerült visszaállítani a mentett dokumentumot";
+
+/* From: RController.m (toolbar) */
+"Create a new, empty document in the editor" = "Új, üres dokumentum létrehozása a szerkesztőben";
+
+/* (SyntaxColorsPrefPane) Entry = "127.title"; Class = "NSTextFieldCell" */
+"Current Line" = "Aktuális vona";
+
+/* (MainMenu) Entry = "1489.title"; Class = "NSTextFieldCell" */
+"Current Working Directory" = "Aktuális munkakönyvtár";
+
+/* (SyntaxColorsPrefPane) Entry = "129.title"; Class = "NSTextFieldCell" */
+"Cursor" = "Kurzor";
+
+/* (MainMenu) Entry = "1503.placeholderString"; Class = "NSTextFieldCell" */
+"Custom Repository URL" = "Egyéni adattár URL-címe";
+
+/* (SelectEncodingsPanel) Entry = "5.title"; Class = "NSWindow" */
+"Customize Encodings List" = "Kódolási lista testreszabása";
+
+/* From: RChooseEncodingPopupAccessory.m (setupPopUpCell)
+   From: RController.m (updateReInterpretEncodingMenu) */
+"Customize List…" = "Lista testreszabása…";
+
+/* (MainMenu) Entry = "160.title"; Class = "NSMenuItem" */
+"Cut" = "Vág";
+
+/* From: RDocument.m (insertRdDataTemplate) */
+"DATA_NAME" = "DATA_NAME";
+
+/* (EncodingPopupView) Entry = "59.title"; Class = "NSMenuItem" */
+"DO NOT LOCALIZE" = "NE LOKALIZÁLJON";
+
+/* (QuartzPrefPane) Entry = "125.title"; Class = "NSTextFieldCell" */
+"DPI:" = "DPI:";
+
+/* (MainMenu) Entry = "501.headerCell.title"; Class = "NSTableColumn" */
+"Data" = "Adat";
+
+/* (MainMenu) Entry = "267.title"; Class = "NSMenuItem" */
+"Data Manager" = "Adatkezelő";
+
+/* (MainMenu) Entry = "1651.title"; Class = "NSMenuItem" */
+"Decrease Indent" = "Behúzás csökkentése";
+
+/* (MiscPrefPane) Entry = "106.title"; Class = "NSBox" */
+"Default CRAN mirror" = "Alapértelmezett CRAN tükör";
+
+/* (MainMenu) Entry = "164.title"; Class = "NSMenuItem" */
+"Delete" = "Alapértelmezett";
+
+/* (MiscPrefPane) Entry = "132.title"; Class = "NSTextFieldCell" */
+"Directory:" = "Címtár:";
+
+/* From: PackageInstaller.m (checkOptions) */
+"Do you want me to remember the mirror you selected for future sessions?" = "Szeretnéd, ha emlékeznék a tükörre, amelyet a jövőbeli ülésekhez választottál?";
+
+/* (MiscPrefPane) Entry = "134.title"; Class = "NSTextFieldCell" */
+"~" = "~";
+
+/* From: RController.m (searchInHistory) */
+"…invalid regular expression" = "... Érvénytelen reguláris kifejezés";
