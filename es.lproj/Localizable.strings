@@ -45,7 +45,7 @@
 "…invalid regular expression" = "...expresión regular inválida";
 
 /* From: REditor.m (toolbar) */
-"Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%@)\tAdd column of type ‘CHARACTER’\n(%@)\tAdd column of type ‘NUMERIC’" = "Agrega una nueva columna a la derecha de un grupo de columnas seleccionadas o justo al final de los datos. El nuevo tipo de columna concuerda con la columna a la izquierda de si misma.\n\n(%1$@)\tAgregar columna de tipo ‘CHARACTER’ (carácter)\n(%2$@)\tAgregar columna de tipo ‘NUMERIC’ (numérico)";
+"Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%@)\tAdd column of type ‘CHARACTER’\n(%@)\tAdd column of type ‘NUMERIC’" = "Agrega una nueva columna a la derecha de un grupo de columnas seleccionadas o justo al final de los datos. El nuevo tipo de columna concuerda con la columna a la izquierda de sí misma.\n\n(%1$@)\tAgregar columna de tipo ‘CHARACTER’ (carácter)\n(%2$@)\tAgregar columna de tipo ‘NUMERIC’ (numérico)";
 
 /* From: REditor.m (toolbar) */
 "Adds a row below a group of selected rows or at the bottom of the data" = "Agrega una fila debajo de un grupo de filas seleccionadas o al final de los datos";
@@ -70,10 +70,10 @@
 "Cancel Editing" = "Cancelar edición";
 
 /* From: WSBrowser.m (remObject) */
-"Are you sure you want to remove object '%@' from the workspace? You cannot undo this action!" = "¿Está seguro que desea remover el objeto '%@' del espacio de trabajo? ¡No puedes deshacer esta acción!";
+"Are you sure you want to remove object '%@' from the workspace? You cannot undo this action!" = "¿Está seguro de que desea eliminar el objeto '%@' del espacio de trabajo? ¡No puedes deshacer esta acción!";
 
 /* From: RController.m (toolbar) */
-"Authorize R to run system commands as root" = "Autorizar R a ejecutar comandos del sistema como root";
+"Authorize R to run system commands as root" = "Autorizar a R a ejecutar comandos del sistema como root";
 
 /* (MainMenu) Entry = "103.title"; Class = "NSMenuItem" */
 "Help" = "Ayuda";
@@ -103,7 +103,7 @@
 "Help search" = "Búsqueda de ayuda";
 
 /* From: RDocument.m (checkRdDocumentWithFilePath) */
-"Check Rd document…" = "Revisar documento Rd…";
+"Check Rd document…" = "Comprobar documento Rd…";
 
 /* From: RDocument.m (checkRdDocumentWithFilePath)
    From: RDocument.m (convertRd2HTML)
@@ -170,10 +170,10 @@
 "BioConductor (sources)" = "BioConductor (códigos fuente)";
 
 /* (MainMenu) Entry = "1495.title"; Class = "NSButtonCell" */
-"Clear History" = "Limpiar historial";
+"Clear History" = "Borrar historial";
 
 /* From: RDocument.m (checkRdDocumentWithFilePath) */
-"Check was successful." = "La revisión se ha realizado correctamente.";
+"Check was successful." = "La comprobación se ha realizado correctamente.";
 
 /* From: RController.m (handleChooseFile)
    From: RController.m (openDocument) */
@@ -189,7 +189,7 @@
 "Choose New File Name" = "Elegir un nuevo nombre de archivo";
 
 /* From: RController.m (setWorkingDir) */
-"Choose New Working Directory" = "Elegir un nuevo directorio de trabajo";
+"Choose New Working Directory" = "Elija Nuevo directorio de trabajo";
 
 /* (MainMenu) Entry = "243.title"; Class = "NSMenuItem" */
 "Clear Workspace" = "Limpiar espacio de trabajo";
@@ -563,7 +563,7 @@
 "Yes" = "Si";
 
 /* (SyntaxColorsPrefPane) Entry = "125.title"; Class = "NSTextFieldCell" */
-"Background" = "Segundo plano";
+"Background" = "Fondo";
 
 /* (SyntaxColorsPrefPane) Entry = "26.title"; Class = "NSBox" */
 "Colors" = "Colores";
@@ -716,19 +716,19 @@
 "Center" = "Centro";
 
 /* (MainMenu) Entry = "322.title"; Class = "NSMenuItem" */
-"Change Working Directory..." = "Cambiar el directorio de trabajo...";
+"Change Working Directory..." = "Cambiar directorio de trabajo...";
 
 /* (MainMenu) Entry = "218.title"; Class = "NSMenuItem" */
-"Check For R Updates" = "Revisar por actualizaciones de R";
+"Check For R Updates" = "Buscar actualizaciones de R";
 
 /* (RDocument) Entry = "83.title"; Class = "NSMenuItem" */
 "Clear" = "Limpiar";
 
 /* (MainMenu) Entry = "1128.title"; Class = "NSMenuItem" */
-"Clear Console" = "Limpiar consola";
+"Clear Console" = "Borrar consola";
 
 /* (MainMenu) Entry = "126.title"; Class = "NSMenuItem" */
-"Clear Menu" = "Limpiar menú";
+"Clear Menu" = "Borrar menú";
 
 /* (MainMenu) Entry = "73.title"; Class = "NSMenuItem" */
 "Close" = "Cerrar";
@@ -794,13 +794,13 @@
 "Change" = "Cambiar";
 
 /* (RDocument) Entry = "161.title"; Class = "NSMenuItem" */
-"Check Rd Document" = "Revisar documento Rd";
+"Check Rd Document" = "Comprobar documento de Rd";
 
 /* (MiscPrefPane) Entry = "145.title"; Class = "NSButtonCell" */
 "Cleanup history entries" = "Limpiar las entradas del historial";
 
 /* (SelectEncodingsPanel) Entry = "23.title"; Class = "NSButtonCell" */
-"Clear all" = "Limpiar todo";
+"Clear all" = "Borrar todo";
 
 /* (RConsole) Entry = "5.title"; Class = "NSWindow" */
 "Console" = "Consola";
