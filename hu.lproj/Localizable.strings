@@ -433,3 +433,29 @@
 
 /* From: RController.m (searchInHistory) */
 "…invalid regular expression" = "... Érvénytelen reguláris kifejezés";
+
+/* (RDocument) Entry = "117.title"; Class = "NSMenuItem" */
+"CP1253" = "CP1253";
+
+/* (RDocument) Entry = "116.title"; Class = "NSMenuItem" */
+"CP1254" = "CP1254";
+
+/* From: PackageInstaller.m (installSelected)
+   From: PackageInstaller.m (updateAll) */
+"Currently it is not possible to install binary packages from a remote repository as root.\nPlease use the CRAN binary of R to allow admin users to install system-wide packages without becoming root. Alternatively you can either use command-line version of R as root or install the packages from local files." = "Jelenleg nem lehet bináris csomagokat telepíteni egy távoli tárolóból root felhasználóként.\nHasználja az R CRAN bináris fájlját, hogy az adminisztrátor felhasználók rendszerszintű csomagokat telepíthessenek anélkül, hogy root felhasználóvá válnának. Másik lehetőségként használhatja az R parancssori verzióját root felhasználóként, vagy telepítheti a csomagokat helyi fájlokból.";
+
+/* (ColorsPrefPane) Entry = "78.title"; Class = "NSButtonCell" */
+/* (SyntaxColorsPrefPane) Entry = "120.title"; Class = "NSButtonCell" */
+"Defaults" = "Alapértelmezett";
+
+/* From: RController.m (didCloseAll) */
+"Don't Save" = "Ne mentsd";
+
+/* (MainMenu) Entry = "502.ibShadowedToolTip"; Class = "NSScrollView" */
+"Double click to load data in the R workspace. " = "Kattintson duplán az adatok betöltéséhez az R-munkaterületen. ";
+
+/* (MainMenu) Entry = "577.ibShadowedToolTip"; Class = "NSButton" */
+"Downloads Selected Packages And Installs In Selected Location (↩)." = "Letölti a kijelölt csomagokat és telepíti a kiválasztott helyre (↩).";
+
+/* (MiscPrefPane) Entry = "17.title"; Class = "NSBox" */
+"Drag & drop action during R start-up" = "Drag &; drop művelet az R indításakor";
