@@ -111,7 +111,7 @@
 "Application" = "Application";
 
 /* From: WSBrowser.m (remObject) */
-"Are you sure you want to remove object '%@' from the workspace? You cannot undo this action!" = "Êtes vous sûr de vouloir supprimer l'objet '%@' de l'espace de travail? Vous ne pourrez pas annuler cette action!";
+"Are you sure you want to remove object '%@' from the workspace? You cannot undo this action!" = "Êtes-vous sûr de vouloir supprimer l'objet '%@' de l'espace de travail ? Vous ne pourrez pas annuler cette action !";
 
 /* (MainMenu) Entry = "1125.title"; Class = "NSButtonCell" */
 "As defined by .libPaths()" = "Comme défini dans .libPaths()";
@@ -202,7 +202,7 @@
 "CRAN (sources)" = "CRAN (sources)";
 
 /* From: HelpManager.m (showHelpFor) */
-"Can't find help for topic, would you like to expand the search?" = "Ne peut trouver d'aide sur le sujet, voulez vous étendre la recherche?";
+"Can't find help for topic, would you like to expand the search?" = "Il n'existe pas d'aide sur le sujet, voulez vous étendre la recherche ?";
 
 /* From: RController.m (doLoadHistory) */
 "Can't open history file %@" = "Impossible d'ouvrir le fichier d'historique %@";
@@ -393,7 +393,7 @@
 "DATA_NAME" = "DATA_NAME";
 
 /* (QuartzPrefPane) Entry = "125.title"; Class = "NSTextFieldCell" */
-"DPI:" = "DPI:";
+"DPI:" = "DPI :";
 
 /* (MainMenu) Entry = "501.headerCell.title"; Class = "NSTableColumn" */
 "Data" = "Données";
@@ -432,7 +432,7 @@
 "Directory:" = "Répertoire :";
 
 /* From: PackageInstaller.m (checkOptions) */
-"Do you want me to remember the mirror you selected for future sessions?" = "Aimeriez vous que je me souvienne de site mirror pour des sessions futures?";
+"Do you want me to remember the mirror you selected for future sessions?" = "Souhaitez-vous que je me souvienne de site mirror pour des sessions futures ?";
 
 /* From: RController.m (didCloseAll) */
 "Don't Save" = "Ne pas sauver";
@@ -478,7 +478,7 @@
 "Encoding" = "Encodage";
 
 /* (RDocument) Entry = "108.title"; Class = "NSTextFieldCell" */
-"Encoding:" = "Encodage:";
+"Encoding:" = "Encodage :";
 
 /* From: RController.m (applicationDidFinishLaunching)
    From: RController.m (windowDidExitFullScreen) */
@@ -551,10 +551,10 @@
 "Font Size" = "Taille Police";
 
 /* (MainMenu) Entry = "1497.title"; Class = "NSTextFieldCell" */
-"Font Size:" = "Taille de Police:";
+"Font Size:" = "Taille de la police :";
 
 /* (EditorPrefPane) Entry = "177.title"; Class = "NSTextFieldCell" */
-"Font:" = "Police:";
+"Font:" = "Police :";
 
 /* (MainMenu) Entry = "833.title"; Class = "NSMenuItem" */
 /* (MainMenu) Entry = "828.title"; Class = "NSMenu" */
@@ -586,10 +586,10 @@
 "Get Working Directory" = "Acquérir Répertoire de Travail";
 
 /* (MainMenu) Entry = "1049.title"; Class = "NSMenuItem" */
-"Go To Line…" = "Aller à la ligne";
+"Go To Line…" = "Aller à la ligne…";
 
 /* (RDocument) Entry = "96.title"; Class = "NSTextFieldCell" */
-"Go to line:" = "Aller à la ligne:";
+"Go to line:" = "Aller à la ligne :";
 
 /* (RDocument) Entry = "153.title"; Class = "NSMenuItem" */
 "HTML Preview" = "Insert Function Rd Template";
@@ -758,7 +758,7 @@
 "Local Source Package" = "Sourcer Package Local";
 
 /* (QuartzPrefPane) Entry = "117.title"; Class = "NSTextFieldCell" */
-"Location:" = "Localisation\n:";
+"Location:" = "Localisation :";
 
 /* (MainMenu) Entry = "818.title"; Class = "NSMenuItem" */
 "Loosen" = "Relaché";
@@ -779,7 +779,7 @@
 "Match brackets/quotes" = "Associer parenthèses/guillemets";
 
 /* (MiscPrefPane) Entry = "143.title"; Class = "NSTextFieldCell" */
-"Max number of entries in history:" = "Nombre maximum d'entrées pour l'Historique:";
+"Max number of entries in history:" = "Nombre maximum d'entrées dans l'historique :";
 
 /* (MainMenu) Entry = "1074.title"; Class = "NSMenu" */
 /* (MainMenu) Entry = "1064.title"; Class = "NSMenu" */
@@ -826,19 +826,19 @@
 "Normal" = "Normal";
 
 /* (QuartzPrefPane) Entry = "124.title"; Class = "NSTextFieldCell" */
-"Note: Change and press return" = "Note: Changer et appuyer sur retour";
+"Note: Change and press return" = "Note : changer et appuyer sur retour";
 
 /* (MiscPrefPane) Entry = "135.title"; Class = "NSTextFieldCell" */
-"Note: Enforce by selecting 'Always apply'. Otherwise used to set the working directory if not specified when R.app is started, e.g. double clicking the R icon. Drag & drop of a file or a directory on the R icon or using 'open -a R.app <dir-or-file>' will override this setting if not enforced." = "Note: Forcer en sélectionnant 'Toujours appliquer'. Sinon est utilisé pour spécifier le répertoire de Travail si ce dernier n'est pas choisi quand R.app démarre, e.g. en double cliquant sur l'icône de R. Déplacer & Poser un fichier ou un répertoire sur l'icône de R icon ou utliser 'open -a R.app <dir-ou-fichier>' annulera cette préférence si non forcée.";
+"Note: Enforce by selecting 'Always apply'. Otherwise used to set the working directory if not specified when R.app is started, e.g. double clicking the R icon. Drag & drop of a file or a directory on the R icon or using 'open -a R.app <dir-or-file>' will override this setting if not enforced." = "Note : forcer en sélectionnant 'Toujours appliquer'. Sinon c'est utilisé pour spécifier le répertoire de travail si ce dernier n'est pas choisi quand R.app démarre, e.g. en double cliquant sur l'icône de R. Déplacer & poser un fichier ou un répertoire sur l'icône de R ou utliser 'open -a R.app <dir-ou-fichier>' annulera cette préférence si non forcée.";
 
 /* (MiscPrefPane) Entry = "131.title"; Class = "NSTextFieldCell" */
-"Note: This change is effective only after a restart of R.app" = "Note: Cette modification ne prendra effet qu'après re-démarrage de R.app";
+"Note: This change is effective only after a restart of R.app" = "Note : cette modification ne prendra effet qu'après le redémarrage de R.app";
 
 /* (MiscPrefPane) Entry = "141.title"; Class = "NSTextFieldCell" */
-"Note: Use a fixed path to always use the same history file, e.g. ~/.Rhistory" = "Note: Utiliser toujours un chemin fixe pour utiliser le même fichier Historique, par exemple ~/.Rhistory";
+"Note: Use a fixed path to always use the same history file, e.g. ~/.Rhistory" = "Note : Utiliser toujours un chemin fixe pour utiliser le même fichier historique, par exemple ~/.Rhistory";
 
 /* (EditorPrefPane) Entry = "161.title"; Class = "NSTextFieldCell" */
-"Note:\nCommand is executed in a shell" = "Note:\nLa commande est éxécutée dans le shell";
+"Note:\nCommand is executed in a shell" = "Note :\nLa commande est éxécutée dans le shell";
 
 /* (SyntaxColorsPrefPane) Entry = "114.title"; Class = "NSTextFieldCell" */
 "Number" = "Nombre";
@@ -982,7 +982,7 @@
 "PrefG-Views" = "Vues";
 
 /* Colors preference pane */
-"PrefP-Colors" = "Console Couleurs";
+"PrefP-Colors" = "Console\nCouleurs";
 
 /* Editor preference pane */
 "PrefP-Editor" = "Editeur";
@@ -994,7 +994,7 @@
 "PrefP-Startup" = "Démarrage";
 
 /* Syntax colors preference pane */
-"PrefP-Syntax" = "Syntaxe";
+"PrefP-Syntax" = "Syntaxe\nCouleurs";
 
 /* From: AMPrefs/AMPreferenceWindowController.m (initWithAutosaveName) */
 "Preferences" = "Preferences";
@@ -1070,7 +1070,7 @@
 "R for Mac OS X FAQ" = "FAQ R pour Mac OS X";
 
 /* (MiscPrefPane) Entry = "137.title"; Class = "NSTextFieldCell" */
-"R history file:" = "Fichier Historique R:";
+"R history file:" = "Fichier Historique R :";
 
 /* (EditorPrefPane) Entry = "165.title"; Class = "NSButtonCell" */
 /* (EditorPrefPane) Entry = "164.title"; Class = "NSButtonCell" */
@@ -1211,7 +1211,7 @@
 "Save history File" = "Sauver le Fichier historique";
 
 /* From: RController.m (didCloseAll) */
-"Save workspace image?" = "Sauver l'image de l'espace de travail?";
+"Save workspace image?" = "Sauver l'image de l'espace de travail ?";
 
 /* (MiscPrefPane) Entry = "115.title"; Class = "NSBox" */
 "Save workspace on exit from R" = "Enregistrer l'espace de travail en quittant";
@@ -1293,7 +1293,7 @@
 "Set R console colors" = "Choisir couleurs de console R";
 
 /* From: PackageInstaller.m (checkOptions) */
-"Set as default?" = "Set as default?";
+"Set as default?" = "Définir par défaut ?";
 
 /* (RDocument) Entry = "111.title"; Class = "NSMenuItem" */
 "Shift-JIS" = "Shift-JIS";
@@ -1449,7 +1449,7 @@
 "URL for the default CRAN URL. If left empty, the user will be prompted." = "URL pour le CRAN par défaut. Si vide, il sera demandé à l'utilisateur.";
 
 /* (MiscPrefPane) Entry = "148.title"; Class = "NSTextFieldCell" */
-"URL:" = "URL:";
+"URL:" = "URL :";
 
 /* (RDocument) Entry = "104.title"; Class = "NSMenuItem" */
 "UTF-8" = "UTF-8";
@@ -1516,10 +1516,10 @@
 "Vignettes" = "Vignettes";
 
 /* From: RController.m (applicationDidFinishLaunching) */
-"WARNING: You're using a non-UTF8 locale, therefore only ASCII characters will work.\nPlease read R for Mac OS X FAQ (see Help) section 9 and adjust your system preferences accordingly.\n" = "WARNING: You're using a non-UTF8 locale, therefore only ASCII characters will work.\nPlease read R for Mac OS X FAQ (see Help) section 9 and adjust your system preferences accordingly.\n";
+"WARNING: You're using a non-UTF8 locale, therefore only ASCII characters will work.\nPlease read R for Mac OS X FAQ (see Help) section 9 and adjust your system preferences accordingly.\n" = "AVIS : vous utilisez une locale non-UTF8, et seuls les caractères ASCII sont valables.\nVeuillez lire la FAQ de R pour Mac OS X (voir dans l'Aide) section 9 et ajuster vos préférences système en conséquence.\n";
 
 /* (MainMenu) Entry = "333.title"; Class = "NSMenuItem" */
-"What's New In This Version?" = "Nouveautés dans cette Version?";
+"What's New In This Version?" = "Quelles nouveautés dans cette version ?";
 
 /* (MainMenu) Entry = "1027.title"; Class = "NSWindow" */
 /* (MainMenu) Entry = "19.title"; Class = "NSMenuItem" */
@@ -1579,13 +1579,13 @@
 "executing" = "executing";
 
 /* (QuartzPrefPane) Entry = "118.title"; Class = "NSTextFieldCell" */
-"font family:" = "Famille de Polices:";
+"font family:" = "Famille de polices :";
 
 /* (QuartzPrefPane) Entry = "119.title"; Class = "NSTextFieldCell" */
-"font point size:" = "Taille Police:";
+"font point size:" = "Taille du point de la police :";
 
 /* (QuartzPrefPane) Entry = "115.title"; Class = "NSTextFieldCell" */
-"height (inches):" = "Hauteur (inches):";
+"height (inches):" = "hauteur (inches) :";
 
 /* (MainMenu) Entry = "462.alternateTitle"; Class = "NSButtonCell" */
 "loaded" = "chargé";
@@ -1603,7 +1603,7 @@
 "press ⌘. to cancel" = "press ⌘. to cancel";
 
 /* (QuartzPrefPane) Entry = "114.title"; Class = "NSTextFieldCell" */
-"width (inches):" = "largeur (inches):";
+"width (inches):" = "largeur (inches) :";
 
 /* (MiscPrefPane) Entry = "134.title"; Class = "NSTextFieldCell" */
 "~" = "~";
@@ -1621,7 +1621,7 @@
 "Output" = "Sortie";
 
 /* (ColorsPrefPane) Entry = "71.title"; Class = "NSTextFieldCell" */
-"Transparency :" = "Transparence :";
+"Transparency :" = "Transparence :";
 
 /* (EncodingPopupView) Entry = "60.ibShadowedToolTip"; Class = "NSPopUpButton" */
 "Encoding to use if there is no encoding specified with the file." = "Codage à utiliser si aucun codage n’est spécifié avec le fichier.";
@@ -1636,4 +1636,4 @@
 "Stdout" = "Stdout";
 
 /* (ColorsPrefPane) Entry = "72.title"; Class = "NSTextFieldCell" */
-"Prompt" = "invite";
+"Prompt" = "Invite";
