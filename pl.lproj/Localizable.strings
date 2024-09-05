@@ -215,7 +215,7 @@
 "Can't find help for topic, would you like to expand the search?" = "Nie można znaleźć pomocy na dany temat, czy chciałbyś rozszerzyć wyszukiwanie?";
 
 /* From: RController.m (doLoadHistory) */
-"Can't open history file %@" = "Nie można otworzyć pliku historii % @";
+"Can't open history file %@" = "Nie można otworzyć pliku historii %@";
 
 /* Cancel Editing - label for a toolbar, keep short!
    From: REditor.m (toolbar) */
@@ -347,3 +347,17 @@
 /* (MainMenu) Entry = "1076.title"; Class = "NSMenuItem" */
 /* (RDocument) Entry = "83.title"; Class = "NSMenuItem" */
 "Clear" = "Wyczyść";
+
+/* From: REditor.m (toolbar) */
+/* (MainMenu) Entry = "1723.ibShadowedToolTip"; Class = "NSMenuItem" */
+"Cancels object editing without passing data back to R and closes the editor window" = "Anuluje edycję obiektu bez przekazywania danych z powrotem do R i zamyka okno edytora";
+
+/* (MiscPrefPane) Entry = "133.title"; Class = "NSButtonCell" */
+/* (QuartzPrefPane) Entry = "120.title"; Class = "NSButtonCell" */
+"Change" = "Zmień";
+
+/* (MainMenu) Entry = "822.title"; Class = "NSMenuItem" */
+"Copy Ruler" = "Skopiuj linijkę";
+
+/* From: RController.m (toolbar) */
+"Create a new, empty document in the editor" = "Utwórz nowy, pusty dokument w edytorze";
