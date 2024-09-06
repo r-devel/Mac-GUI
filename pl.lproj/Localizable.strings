@@ -361,3 +361,6 @@
 
 /* From: RController.m (toolbar) */
 "Create a new, empty document in the editor" = "Utwórz nowy, pusty dokument w edytorze";
+
+/* (MainMenu) Entry = "1013.title"; Class = "NSMenuItem" */
+"Complete" = "Rozwiń";
