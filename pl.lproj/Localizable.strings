@@ -73,7 +73,7 @@
 "Add Column (CHARACTER)" = "Dodaj kolumnę (ZNAK)";
 
 /* (MainMenu) Entry = "1718.title"; Class = "NSMenuItem" */
-"Add Column (NUMERIC)" = "Dodaj kolumnę (NUMERYCZNIE)";
+"Add Column (NUMERIC)" = "Dodaj kolumnę (NUMERIC)";
 
 /* From: REditor.m (toolbar) */
 "Add New Row" = "Dodaj nowy wiersz";
@@ -237,7 +237,7 @@
 "Cannot start R" = "Nie można uruchomić R";
 
 /* (MainMenu) Entry = "829.title"; Class = "NSMenuItem" */
-"Center" = "Centrum";
+"Center" = "Wyśrodkuj";
 
 /* (QuartzPrefPane) Entry = "37.title"; Class = "NSMenuItem" */
 "Centered" = "Wyśrodkowany";
@@ -357,7 +357,7 @@
 "Change" = "Zmień";
 
 /* (MainMenu) Entry = "822.title"; Class = "NSMenuItem" */
-"Copy Ruler" = "Skopiuj linijkę";
+"Copy Ruler" = "Kopiuj linijkę";
 
 /* From: RController.m (toolbar) */
 "Create a new, empty document in the editor" = "Utwórz nowy, pusty dokument w edytorze";
@@ -1543,7 +1543,7 @@
 "HTML Preview" = "Podgląd HTML";
 
 /* (MainMenu) Entry = "29.title"; Class = "NSMenu" */
-"MainMenu" = "MainMenu";
+"MainMenu" = "Menu Główne";
 
 /* From: PackageInstaller.m (checkOptions) */
 "No valid CRAN mirror was selected.\nYou won't be able to install any CRAN packages unless you set the CRAN option to a valid mirror URL." = "Nie wybrano żadnego prawidłowego serwera lustrzanego CRAN.\nNie będzie można zainstalować żadnych pakietów CRAN, chyba że opcja CRAN zostanie ustawiona na prawidłowy URL serwera lustrzanego.";
