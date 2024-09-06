@@ -55,7 +55,7 @@
 ">" = ">";
 
 /* (MainMenu) Entry = "58.title"; Class = "NSMenuItem" */
-"About R" = "O języku R";
+"About R" = "R...";
 
 /* (MainMenu) Entry = "312.title"; Class = "NSMenuItem" */
 "Activate Quartz Device Window" = "Aktywuj okno urządzenia Quartz";
@@ -95,7 +95,7 @@
 "Align Right" = "Wyrównaj do prawej";
 
 /* (MainMenu) Entry = "1634.title"; Class = "NSMenuItem" */
-"All" = "Cały";
+"All" = "Wszystko";
 
 /* From: RController.m (clearWorkSpace) */
 "All objects in the workspace will be removed. Are you sure you want to proceed?" = "Wszystkie obiekty w obszarze roboczym zostaną usunięte. Czy na pewno chcesz kontynuować?";
@@ -126,10 +126,10 @@
 "As defined by .libPaths()" = "Zgodnie z definicją .libPaths()";
 
 /* (MiscPrefPane) Entry = "123.title"; Class = "NSButtonCell" */
-"Ask" = "Pytać";
+"Ask" = "Pytaj";
 
 /* (MainMenu) Entry = "1122.title"; Class = "NSButtonCell" */
-"At System Level (in R framework)" = "Na poziomie systemu (w środowisku R)";
+"At System Level (in R framework)" = "Na poziomie systemu (we frameworku R)";
 
 /* (MainMenu) Entry = "1123.title"; Class = "NSButtonCell" */
 "At User Level" = "Na poziomie użytkownika";
@@ -357,7 +357,7 @@
 "Change" = "Zmień";
 
 /* (MainMenu) Entry = "822.title"; Class = "NSMenuItem" */
-"Copy Ruler" = "Linijka kopiująca";
+"Copy Ruler" = "Skopiuj linijkę";
 
 /* From: RController.m (toolbar) */
 "Create a new, empty document in the editor" = "Utwórz nowy, pusty dokument w edytorze";
