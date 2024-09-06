@@ -357,10 +357,123 @@
 "Change" = "Zmień";
 
 /* (MainMenu) Entry = "822.title"; Class = "NSMenuItem" */
-"Copy Ruler" = "Skopiuj linijkę";
+"Copy Ruler" = "Linijka kopiująca";
 
 /* From: RController.m (toolbar) */
 "Create a new, empty document in the editor" = "Utwórz nowy, pusty dokument w edytorze";
 
 /* (MainMenu) Entry = "1013.title"; Class = "NSMenuItem" */
-"Complete" = "Rozwiń";
+"Complete" = "Zakończ";
+
+/* (MainMenu) Entry = "1489.title"; Class = "NSTextFieldCell" */
+"Current Working Directory" = "Bieżący katalog roboczy";
+
+/* From: RDocument.m (reinterpretInEncoding) */
+"Couldn't reinterpret the text by using the encoding" = "Nie można ponownie zinterpretować tekstu przy użyciu kodowania";
+
+/* From: RDocument.m (revertToContentsOfURL) */
+"Couldn't revert to saved document" = "Nie można powrócić do zapisanego dokumentu";
+
+/* (SyntaxColorsPrefPane) Entry = "127.title"; Class = "NSTextFieldCell" */
+"Current Line" = "Bieżąca linia";
+
+/* (SyntaxColorsPrefPane) Entry = "129.title"; Class = "NSTextFieldCell" */
+"Cursor" = "Kursor";
+
+/* (MainMenu) Entry = "1503.placeholderString"; Class = "NSTextFieldCell" */
+"Custom Repository URL" = "Niestandardowy adres URL repozytorium";
+
+/* (SelectEncodingsPanel) Entry = "5.title"; Class = "NSWindow" */
+"Customize Encodings List" = "Dostosuj listę kodowań";
+
+/* From: RChooseEncodingPopupAccessory.m (setupPopUpCell)
+   From: RController.m (updateReInterpretEncodingMenu) */
+"Customize List…" = "Dostosuj listę…";
+
+/* From: RDocument.m (insertRdDataTemplate) */
+"DATA_NAME" = "DATA_NAME";
+
+/* (EncodingPopupView) Entry = "59.title"; Class = "NSMenuItem" */
+"DO NOT LOCALIZE" = "NIE LOKALIZUJ";
+
+/* (QuartzPrefPane) Entry = "125.title"; Class = "NSTextFieldCell" */
+"DPI:" = "DPI:";
+
+/* (MainMenu) Entry = "501.headerCell.title"; Class = "NSTableColumn" */
+"Data" = "Dane";
+
+/* (MainMenu) Entry = "267.title"; Class = "NSMenuItem" */
+"Data Manager" = "Menedżer danych";
+
+/* (MainMenu) Entry = "1651.title"; Class = "NSMenuItem" */
+"Decrease Indent" = "Zmniejsz wcięcie";
+
+/* (MiscPrefPane) Entry = "138.title"; Class = "NSButtonCell" */
+"Default" = "Domyślny";
+
+/* (MiscPrefPane) Entry = "106.title"; Class = "NSBox" */
+"Default CRAN mirror" = "Domyślny serwer lustrzany CRAN";
+
+/* (MainMenu) Entry = "1207.title"; Class = "NSMenuItem" */
+"Comment-out" = "Komentarz";
+
+/* (MiscPrefPane) Entry = "23.title"; Class = "NSBox" */
+"Default Library Paths" = "Domyślne ścieżki biblioteki";
+
+/* (ColorsPrefPane) Entry = "78.title"; Class = "NSButtonCell" */
+/* (SyntaxColorsPrefPane) Entry = "120.title"; Class = "NSButtonCell" */
+"Defaults" = "Ustawienia domyślne";
+
+/* (MainMenu) Entry = "164.title"; Class = "NSMenuItem" */
+"Delete" = "Usuń";
+
+/* (MainMenu) Entry = "1496.title"; Class = "NSButtonCell" */
+"Delete entry" = "Usuń wpis";
+
+/* (MiscPrefPane) Entry = "132.title"; Class = "NSTextFieldCell" */
+"Directory:" = "Katalog:";
+
+/* From: PackageInstaller.m (checkOptions) */
+"Do you want me to remember the mirror you selected for future sessions?" = "Czy chcesz, żebym zapamiętał serwer lustrzany, który wybrałeś na przyszłe sesje?";
+
+/* From: RController.m (didCloseAll) */
+"Don't Save" = "Nie zapisuj";
+
+/* (MainMenu) Entry = "502.ibShadowedToolTip"; Class = "NSScrollView" */
+"Double click to load data in the R workspace. " = "Kliknij dwukrotnie, aby załadować dane w obszarze roboczym języka R. ";
+
+/* (MainMenu) Entry = "577.ibShadowedToolTip"; Class = "NSButton" */
+"Downloads Selected Packages And Installs In Selected Location (↩)." = "Pobiera wybrane pakiety i instaluje się w wybranej lokalizacji (↩).";
+
+/* (MiscPrefPane) Entry = "17.title"; Class = "NSBox" */
+"Drag & drop action during R start-up" = "Akcja \"przeciągnij i upuść\" podczas uruchamiania języka R";
+
+/* (RDocument) Entry = "110.title"; Class = "NSMenuItem" */
+"EUC (jp)" = "Jednostka EUC (jp)";
+
+/* From: WSBrowser.m (toolbar) */
+/* (MainMenu) Entry = "163.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "169.title"; Class = "NSMenu" */
+"Edit" = "Edycja";
+
+/* (MainMenu) Entry = "1740.title"; Class = "NSMenuItem" */
+"Edit Column Names" = "Edytowanie nazw kolumn";
+
+/* From: WSBrowser.m (toolbar) */
+"Edit Object" = "Edytuj obiekt";
+
+/* (MainMenu) Entry = "221.title"; Class = "NSMenuItem" */
+"Edit Object…" = "Edytuj obiekt…";
+
+/* From: WSBrowser.m (toolbar) */
+"Edit the selected object" = "Edytowanie zaznaczonego obiektu";
+
+/* From: PackageInstaller.m (installSelected)
+   From: PackageInstaller.m (updateAll) */
+"Currently it is not possible to install binary packages from a remote repository as root.\nPlease use the CRAN binary of R to allow admin users to install system-wide packages without becoming root. Alternatively you can either use command-line version of R as root or install the packages from local files." = "Obecnie nie jest możliwe instalowanie pakietów binarnych ze zdalnego repozytorium jako root.\nUżyj pliku binarnego CRAN języka R, aby umożliwić administratorom instalowanie pakietów systemowych bez zostawania rootem. Alternatywnie możesz użyć wersji wiersza polecenia R jako root lub zainstalować pakiety z plików lokalnych.";
+
+/* (MainMenu) Entry = "447.headerCell.title"; Class = "NSTableColumn" */
+/* (MainMenu) Entry = "504.headerCell.title"; Class = "NSTableColumn" */
+/* (MainMenu) Entry = "701.headerCell.title"; Class = "NSTableColumn" */
+/* (Vignettes) Entry = "94.headerCell.title"; Class = "NSTableColumn" */
+"Description" = "Opis";
