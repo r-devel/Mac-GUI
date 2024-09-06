@@ -415,7 +415,7 @@
 "Default CRAN mirror" = "Domyślny serwer lustrzany CRAN";
 
 /* (MainMenu) Entry = "1207.title"; Class = "NSMenuItem" */
-"Comment-out" = "Komentarz";
+"Comment-out" = "Wykomentuj";
 
 /* (MiscPrefPane) Entry = "23.title"; Class = "NSBox" */
 "Default Library Paths" = "Domyślne ścieżki biblioteki";
