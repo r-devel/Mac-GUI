@@ -363,7 +363,7 @@
 "Create a new, empty document in the editor" = "Utwórz nowy, pusty dokument w edytorze";
 
 /* (MainMenu) Entry = "1013.title"; Class = "NSMenuItem" */
-"Complete" = "Zakończ";
+"Complete" = "Uzupełnij";
 
 /* (MainMenu) Entry = "1489.title"; Class = "NSTextFieldCell" */
 "Current Working Directory" = "Bieżący katalog roboczy";
@@ -747,7 +747,7 @@
 
 /* (MainMenu) Entry = "839.title"; Class = "NSMenuItem" */
 /* (MainMenu) Entry = "842.title"; Class = "NSMenu" */
-"Kern" = "Jądro";
+"Kern" = "Kern";
 
 /* (MainMenu) Entry = "247.title"; Class = "NSMenuItem" */
 "Load Default Workspace" = "Załaduj domyślny obszar roboczy";
@@ -1388,7 +1388,7 @@
 "Uncomment" = "Usuń komentarz";
 
 /* (MainMenu) Entry = "841.title"; Class = "NSMenuItem" */
-"Tighten" = "Dokręć";
+"Tighten" = "Dokręcić";
 
 /* (MainMenu) Entry = "158.title"; Class = "NSMenuItem" */
 "Undo" = "Cofnij";
