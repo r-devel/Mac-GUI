@@ -87,7 +87,7 @@
 "Add ~/Library/R…" = "Ajouter ~/Library/R…";
 
 /* From: REditor.m (toolbar) */
-"Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%@)\tAdd column of type ‘CHARACTER’\n(%@)\tAdd column of type ‘NUMERIC’" = "Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%1$@)\tAdd column of type ‘CHARACTER’\n(%2$@)\tAdd column of type ‘NUMERIC’";
+"Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%@)\tAdd column of type ‘CHARACTER’\n(%@)\tAdd column of type ‘NUMERIC’" = "Ajoute une nouvelle colonne à droite d'un groupe de colonnes sélectionnées ou juste à la fin des données. Le type de la nouvelle colonne correspond à celui qui lui est attribué.\n\n(%1$@)\tAjouter une colonne de type ‘CHARACTER’\n(%2$@)\tAjouter une colonne de type ‘NUMERIC’";
 
 /* From: REditor.m (toolbar) */
 "Adds a row below a group of selected rows or at the bottom of the data" = "Insère une ligne en dessous de l'ensemble des lignes sélectionnées ou en bas du tableau des données";
@@ -138,7 +138,7 @@
 "Back" = "Arrière";
 
 /* (SyntaxColorsPrefPane) Entry = "125.title"; Class = "NSTextFieldCell" */
-"Background" = "Background";
+"Background" = "Fond";
 
 /* (MainMenu) Entry = "1657.title"; Class = "NSMenuItem" */
 "Balanced Brackets" = "Parenthèses couplées";
@@ -214,14 +214,14 @@
 
 /* Cancel Editing - label for a toolbar, keep short!
    From: REditor.m (toolbar) */
-"Cancel Editing" = "Cancel Editing";
+"Cancel Editing" = "Annuler les modifications";
 
 /* (MainMenu) Entry = "1723.title"; Class = "NSMenuItem" */
-"Cancel Object Editing" = "Cancel Object Editing";
+"Cancel Object Editing" = "Annuler la modification de l'objet";
 
 /* From: REditor.m (toolbar) */
 /* (MainMenu) Entry = "1723.ibShadowedToolTip"; Class = "NSMenuItem" */
-"Cancels object editing without passing data back to R and closes the editor window" = "Cancels object editing without passing data back to R and closes the editor window";
+"Cancels object editing without passing data back to R and closes the editor window" = "Annule la modification de l'objet sans rendre les données à R et ferme la fenêtre de l'éditeur";
 
 /* From: RDocumentWinCtrl.m (goHelpSearch) */
 "Cannot determine package for the topic." = "Impossible de déterminer un package pour le thème.";
@@ -255,13 +255,13 @@
 "Check For R Updates" = "Mise à jour de R";
 
 /* (RDocument) Entry = "161.title"; Class = "NSMenuItem" */
-"Check Rd Document" = "Check Rd Document";
+"Check Rd Document" = "Vérifier le document Rd";
 
 /* From: RDocument.m (checkRdDocumentWithFilePath) */
-"Check Rd document…" = "Check Rd document…";
+"Check Rd document…" = "Vérification du document Rd…";
 
 /* From: RDocument.m (checkRdDocumentWithFilePath) */
-"Check was successful." = "Check was successful.";
+"Check was successful." = "Vérification réalisée avec succès.";
 
 /* From: RController.m (handleChooseFile)
    From: RController.m (openDocument) */
@@ -315,7 +315,7 @@
 
 /* (MainMenu) Entry = "1758.title"; Class = "NSMenu" */
 /* (MainMenu) Entry = "1757.title"; Class = "NSMenuItem" */
-"Code Folding Submenu" = "Code Folding Submenu";
+"Code Folding Submenu" = "Sous-menu de repli du code";
 
 /* (SyntaxColorsPrefPane) Entry = "26.title"; Class = "NSBox" */
 "Colors" = "Couleurs";
@@ -352,7 +352,7 @@
 "Copy Style" = "Copier Style";
 
 /* (MainMenu) Entry = "1730.title"; Class = "NSMenuItem" */
-"Copy as CSV" = "Copy as CSV";
+"Copy as CSV" = "Copier en tant que CSV";
 
 /* From: RDocument.m (reinterpretInEncoding) */
 "Couldn't reinterpret the text by using the encoding" = "Impossible de réinterprêter le texte avec cet encodage";
@@ -402,7 +402,7 @@
 "Data Manager" = "Gestionnaire de données";
 
 /* (MainMenu) Entry = "1651.title"; Class = "NSMenuItem" */
-"Decrease Indent" = "Decrease Indent";
+"Decrease Indent" = "Réduire l'indentation";
 
 /* (MiscPrefPane) Entry = "138.title"; Class = "NSButtonCell" */
 "Default" = "Défaut";
@@ -455,7 +455,7 @@
 "Edit" = "Édition";
 
 /* (MainMenu) Entry = "1740.title"; Class = "NSMenuItem" */
-"Edit Column Names" = "Edit Column Names";
+"Edit Column Names" = "Modifier le nom des colonnes";
 
 /* From: WSBrowser.m (toolbar) */
 "Edit Object" = "Éditer Objet";
@@ -497,7 +497,7 @@
 
 /* From: RController.m (applicationDidFinishLaunching)
    From: RController.m (windowDidEnterFullScreen) */
-"Exit Full Screen" = "Exit Full Screen";
+"Exit Full Screen" = "Sortir du mode plein écran";
 
 /* (EditorPrefPane) Entry = "97.title"; Class = "NSButtonCell" */
 "External Editor" = "Editeur Externe";
@@ -564,7 +564,7 @@
 "Format Source Code" = "Format Source Code";
 
 /* From: RDocumentWinCtrl.m (tidyRCode) */
-"Formatting…" = "Formatting…";
+"Formatting…" = "Formatage…";
 
 /* (MainMenu) Entry = "1514.alternateTitle"; Class = "NSButtonCell" */
 "Forward" = "Avancer";
@@ -720,7 +720,7 @@
 
 /* (MainMenu) Entry = "848.title"; Class = "NSMenuItem" */
 /* (MainMenu) Entry = "824.title"; Class = "NSMenu" */
-"Ligature" = "Ligature";
+"Ligature" = "Jointure";
 
 /* (MainMenu) Entry = "1656.title"; Class = "NSMenuItem" */
 "Line" = "Ligne";
@@ -731,7 +731,7 @@
 
 /* From: RdEditorToolbar.m (textView)
    From: RDocumentWinCtrl.m (functionReset) */
-"List of Sections" = "List of Sections";
+"List of Sections" = "Liste de sections";
 
 /* (MainMenu) Entry = "1685.title"; Class = "NSButtonCell" */
 "Load Data" = "Charger les données";
@@ -902,7 +902,7 @@
 "Override R Quartz width/height parameters" = "Remplacer les paramètres de largeur/hauteur de R Quartz";
 
 /* (RDocument) Entry = "159.title"; Class = "NSMenuItem" */
-"PDF Preview" = "PDF Preview";
+"PDF Preview" = "Aperçu PDF";
 
 /* (MainMenu) Entry = "697.headerCell.title"; Class = "NSTableColumn" */
 /* (MainMenu) Entry = "500.headerCell.title"; Class = "NSTableColumn" */
@@ -951,7 +951,7 @@
 "Panel" = "Panel";
 
 /* From: RDocumentWinCtrl.m (tidyRCode) */
-"Parsing Error" = "Parsing Error";
+"Parsing Error" = "Erreur d'analyse syntaxique";
 
 /* (MainMenu) Entry = "171.title"; Class = "NSMenuItem" */
 "Paste" = "Coller";
@@ -997,7 +997,7 @@
 "PrefP-Syntax" = "Syntaxe\nCouleurs";
 
 /* From: AMPrefs/AMPreferenceWindowController.m (initWithAutosaveName) */
-"Preferences" = "Preferences";
+"Preferences" = "Préférences";
 
 /* (MainMenu) Entry = "129.title"; Class = "NSMenuItem" */
 "Preferences…" = "Préférences…";
@@ -1033,10 +1033,10 @@
 "R Data Editor" = "Editeur R de Données";
 
 /* From: REditor.m (initData) */
-"R Data Editor - error while reading object data" = "R Data Editor - error while reading object data";
+"R Data Editor - error while reading object data" = "Editeur de données R - erreur durant la lecture de l'objet de données";
 
 /* From: REditor.m (windowShouldClose) */
-"R Data Editor couldn't write object data" = "R Data Editor couldn't write object data";
+"R Data Editor couldn't write object data" = "L'éditeur de données R n'a pas pu sauvegarder l'objet de données";
 
 /* (MainMenu) Entry = "498.title"; Class = "NSWindow" */
 "R Data Manager" = "Gestionnaire de Données R";
@@ -1083,10 +1083,10 @@
 "Raise" = "Élever";
 
 /* From: RDocument.m (checkRdDocumentWithFilePath) */
-"Rd Check" = "Rd Check";
+"Rd Check" = "Contrôle Rd";
 
 /* From: RdEditorToolbar.m (textView) */
-"Rd Toolbox" = "Rd Toolbox";
+"Rd Toolbox" = "Boîte à outils Rd";
 
 /* From: RDocument.m (checkRdDocumentWithFilePath)
    From: RDocument.m (convertRd2PDF) */
@@ -1140,7 +1140,7 @@
 "Remove Selected Object" = "Supprimer les objets sélectionnés";
 
 /* (MainMenu) Entry = "1722.title"; Class = "NSMenuItem" */
-"Remove Selection" = "Remove Selection";
+"Remove Selection" = "Supprimer la sélection";
 
 /* (MiscPrefPane) Entry = "142.title"; Class = "NSButtonCell" */
 "Remove duplicate entries in history" = "Supprimer les enregistrements dupliqués dans l'historique";
@@ -1170,7 +1170,7 @@
 "Revert to default" = "Revenir à la valeur par défaut";
 
 /* From: RDocument.m (revertToContentsOfURL) */
-"Reverting Document" = "Reverting Document";
+"Reverting Document" = "Annulation du document";
 
 /* (MainMenu) Entry = "658.title"; Class = "NSMenuItem" */
 "Run X11 Server" = "Mettre en marche le Serveur X11";
@@ -1224,11 +1224,11 @@
 
 /* From: RdEditorToolbar.m (textView)
    From: REditorToolbar.m (updatePreferences) */
-"Search Help" = "Search Help";
+"Search Help" = "Chercher de l'aide";
 
 /* From: RdEditorToolbar.m (textView)
    From: REditorToolbar.m (updatePreferences) */
-"Search Panel" = "Search Panel";
+"Search Panel" = "Panneau de recherche";
 
 /* (MainMenu) Entry = "1663.placeholderString"; Class = "NSSearchFieldCell" */
 "Search in History [regex] - ⇧⌘H" = "Recherche dans l'Historique [expression régulière] - ⇧⌘H";
@@ -1268,7 +1268,7 @@
 "Select one or more" = "Selectionnez en un ou plus";
 
 /* From: PackageInstaller.m (awakeFromNib) */
-"Select packages from R %@" = "Select packages from R %@";
+"Select packages from R %@" = "Sélectionner les packages de R %@";
 
 /* (MainMenu) Entry = "1113.title"; Class = "NSMenuItem" */
 "Select packages from previous R" = "Choisir les packages à partir du R précédent";
@@ -1311,7 +1311,7 @@
 
 /* From: RController.m (textView)
    From: RDocumentWinCtrl.m (textView) */
-"Show Help for current Function" = "Show Help for current Function";
+"Show Help for current Function" = "Afficher l'aide pour la fonction en cours";
 
 /* From: PackageInstaller.m (toggleShowInstalled) */
 /* (MainMenu) Entry = "1065.title"; Class = "NSMenuItem" */
@@ -1339,7 +1339,7 @@
 "Smaller" = "Plus Petit";
 
 /* From: RTextView.m (performDragOperation) */
-"Snippet Error" = "Snippet Error";
+"Snippet Error" = "Erreur dans l'extrait";
 
 /* (MainMenu) Entry = "970.title"; Class = "NSMenuItem" */
 "Source Document" = "Sourcer Document";
@@ -1467,16 +1467,16 @@
 "Undo" = "Annuler";
 
 /* (MainMenu) Entry = "1773.title"; Class = "NSMenuItem" */
-"Unfold" = "Unfold";
+"Unfold" = "Développer";
 
 /* (MainMenu) Entry = "1766.title"; Class = "NSMenuItem" */
-"Unfold All" = "Unfold All";
+"Unfold All" = "Tout développer";
 
 /* (RDocument) Entry = "109.title"; Class = "NSMenuItem" */
 "Unicode" = "Unicode";
 
 /* (MainMenu) Entry = "1748.title"; Class = "NSMenuItem" */
-"Unicode Characters in R Strings to \\uxxxx" = "Unicode Characters in R Strings to \\uxxxx";
+"Unicode Characters in R Strings to \\uxxxx" = "Caractères Unicode dans les chaînes R à \\uxxxx";
 
 /* (MainMenu) Entry = "1509.title"; Class = "NSButtonCell" */
 "Update All" = "Tout Mettre à Jour";
@@ -1500,7 +1500,7 @@
 "User Should Specify The Package Format For Non-Default Repositories. Usually Archives With \".tar.gz\" Extension Are In \"Source Format\", Packages With \".tgz\" Extesion Are In \"Binary Format\".  " = "Il est conseillé de spécifier le format du package s'il n'est pas standard. En général les archives avec l'extension \".tar.gz\" sont au \"Format Source\" alors que l'extension \".tgz\" indique un Format Binaire\".  ";
 
 /* From: NSString_RAdditions.m (evaluateAsBashCommandWithEnvironment) */
-"User Termination" = "User Termination";
+"User Termination" = "Terminé par l'utilisateur";
 
 /* From: RDocument.m (insertRdDataTemplate) */
 "VAR_NAME_1" = "VAR_NAME_1";
@@ -1538,7 +1538,7 @@
 "Workspace Browser" = "Explorateur de l'Espace de Travail";
 
 /* (EditorPrefPane) Entry = "153.title"; Class = "NSButtonCell" */
-"Wrap lines" = "Wrap lines";
+"Wrap lines" = "Replier les lignes";
 
 /* Global string @ */
 /* (MiscPrefPane) Entry = "125.title"; Class = "NSButtonCell" */
@@ -1555,7 +1555,7 @@
 "[Workspace restored from " = "[Espace de Travail restauré depuis ";
 
 /* (MainMenu) Entry = "1749.title"; Class = "NSMenuItem" */
-"\\uxxxx to Character" = "\\uxxxx to Character";
+"\\uxxxx to Character" = "\\uxxxx en caractère";
 
 /* (MainMenu) Entry = "799.headerCell.title"; Class = "NSTableColumn" */
 "a" = "a";
@@ -1573,10 +1573,10 @@
 "e" = "e";
 
 /* From: REditor.m (startDataEntry) */
-"editing cancelled" = "editing cancelled";
+"editing cancelled" = "modifications annulées";
 
 /* From: REngine/REngine.m (RKL_METHOD_PREPEND) */
-"executing" = "executing";
+"executing" = "exécution en cours";
 
 /* (QuartzPrefPane) Entry = "118.title"; Class = "NSTextFieldCell" */
 "font family:" = "Famille de polices :";
@@ -1600,7 +1600,7 @@
    From: RDocument.m (insertRdFunctionTemplate)
    From: RDocumentWinCtrl.m (tidyRCode)
    From: RTextView.m (performDragOperation) */
-"press ⌘. to cancel" = "press ⌘. to cancel";
+"press ⌘. to cancel" = "presser ⌘. pour annuler";
 
 /* (QuartzPrefPane) Entry = "114.title"; Class = "NSTextFieldCell" */
 "width (inches):" = "largeur (inches) :";
@@ -1609,7 +1609,7 @@
 "~" = "~";
 
 /* From: RController.m (searchInHistory) */
-"…invalid regular expression" = "…invalid regular expression";
+"…invalid regular expression" = "…expression régulière incorrecte";
 
 
 
@@ -1636,4 +1636,4 @@
 "Stdout" = "Stdout";
 
 /* (ColorsPrefPane) Entry = "72.title"; Class = "NSTextFieldCell" */
-"Prompt" = "Prompt";
+"Prompt" = "Invite";
