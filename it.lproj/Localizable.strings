@@ -1632,3 +1632,7 @@
 "…invalid regular expression" = "…invalid regular expression";
 
 
+
+
+/* (EncodingPopupView) Entry = "60.ibShadowedToolTip"; Class = "NSPopUpButton" */
+"Encoding to use if there is no encoding specified with the file." = "Codifica da utilizzare se non è specificata alcuna codifica con il file.";
