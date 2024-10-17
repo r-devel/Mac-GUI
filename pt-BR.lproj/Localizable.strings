@@ -205,7 +205,7 @@
 "< Back" = "< Voltar";
 
 /* From: RController.m (showWorkingDir) */
-"<deleted>" = "<deleted>";
+"<deleted>" = "<deletado>";
 
 /* From: RDocumentWinCtrl.m (functionReset) */
 /* (RDocument) Entry = "45.title"; Class = "NSMenuItem" */
