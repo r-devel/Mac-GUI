@@ -233,20 +233,20 @@
 "Add Col" = "Adicionar cor";
 
 /* From: REditor.m (toolbar) */
-"Add Column" = "Adicionar coluna";
+"Add Column" = "Adicionar Coluna";
 
 /* (MainMenu) Entry = "1719.title"; Class = "NSMenuItem" */
-"Add Column (CHARACTER)" = "Adicionar coluna (CARACTERE)";
+"Add Column (CHARACTER)" = "Adicionar Coluna (CARACTERE)";
 
 /* (MainMenu) Entry = "1718.title"; Class = "NSMenuItem" */
-"Add Column (NUMERIC)" = "Adicionar coluna (NUMÉRICO)";
+"Add Column (NUMERIC)" = "Adicionar Coluna (NUMÉRICO)";
 
 /* From: REditor.m (toolbar) */
-"Add New Row" = "Adicionar nova linha";
+"Add New Row" = "Adicionar Nova Linha";
 
 /* Add row - label for a toolbar, keep short! */
 /* (MainMenu) Entry = "1720.title"; Class = "NSMenuItem" */
-"Add Row" = "Adicionar linha";
+"Add Row" = "Adicionar Linha";
 
 /* (MiscPrefPane) Entry = "129.title"; Class = "NSButtonCell" */
 "Add ~/Library/R…" = "Adicionar ~/Library/R…";
