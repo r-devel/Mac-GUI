@@ -1,1 +1,324 @@
 
+
+/* From: Quartz/QuartzDevice.m (setDefaultSyntaxColors) */
+"%@ - Active" = "%@ - Aktivní";
+
+/* From: Quartz/QuartzDevice.m (setDefaultSyntaxColors) */
+"%@ - Inactive" = "%@ - Neaktivní";
+
+/* (MainMenu) Entry = "1684.ibShadowedToolTip"; Class = "NSButton" */
+"(Return)" = "(↩)";
+
+/* (MiscPrefPane) Entry = "130.title"; Class = "NSTextFieldCell" */
+"(was default in RAqua)" = "(bylo výchozí v RAqua)";
+
+/* (MainMenu) Entry = "1677.ibShadowedToolTip"; Class = "NSButton" */
+"(⌘R)" = "(⌘R)";
+
+/* (MiscPrefPane) Entry = "139.title"; Class = "NSTextFieldCell" */
+".Rhistory" = ".Rhistory";
+
+/* (MainMenu) Entry = "1499.title"; Class = "NSTextFieldCell" */
+"11" = "11";
+
+/* (QuartzPrefPane) Entry = "122.title"; Class = "NSTextFieldCell" */
+"12" = "12";
+
+/* (MiscPrefPane) Entry = "144.title"; Class = "NSTextFieldCell" */
+"250" = "250";
+
+/* (QuartzPrefPane) Entry = "112.title"; Class = "NSTextFieldCell" */
+/* (QuartzPrefPane) Entry = "113.title"; Class = "NSTextFieldCell" */
+"5.0" = "5.0";
+
+/* (MainMenu) Entry = "1513.title"; Class = "NSButtonCell" */
+"<" = "<";
+
+/* (MainMenu) Entry = "1501.title"; Class = "NSButtonCell" */
+"< Back" = "< Zpět";
+
+/* From: RController.m (showWorkingDir) */
+"<deleted>" = "<smazáno>";
+
+/* From: RDocumentWinCtrl.m (functionReset) */
+/* (RDocument) Entry = "45.title"; Class = "NSMenuItem" */
+"<functions>" = "<funkce>";
+
+/* From: RDocumentWinCtrl.m (functionReset) */
+"<sections>" = "<sekce>";
+
+/* From: SearchTable.m (show) */
+"<unknown>" = "<neznámý>";
+
+/* (MainMenu) Entry = "1514.title"; Class = "NSButtonCell" */
+">" = ">";
+
+/* (MainMenu) Entry = "58.title"; Class = "NSMenuItem" */
+"About R" = "O R";
+
+/* (MainMenu) Entry = "312.title"; Class = "NSMenuItem" */
+"Activate Quartz Device Window" = "Aktivovat okno zařízení Quartz";
+
+/* (MainMenu) Entry = "1671.title"; Class = "NSButtonCell" */
+"Activate SearchField ⇧⌘H" = "Aktivovat vyhledávací pole ⇧⌘H";
+
+/* Add column - label for a toolbar, keep short! */
+"Add Col" = "Přidat sloupec";
+
+/* From: REditor.m (toolbar) */
+"Add Column" = "Přidat sloupec";
+
+/* (MainMenu) Entry = "1719.title"; Class = "NSMenuItem" */
+"Add Column (CHARACTER)" = "Přidat sloupec (ZNAK)";
+
+/* (MainMenu) Entry = "1718.title"; Class = "NSMenuItem" */
+"Add Column (NUMERIC)" = "Přidat sloupec (ČÍSELNÝ)";
+
+/* From: REditor.m (toolbar) */
+"Add New Row" = "Přidat nový řádek";
+
+/* (MiscPrefPane) Entry = "129.title"; Class = "NSButtonCell" */
+"Add ~/Library/R…" = "Přidat ~/Library/R…";
+
+/* From: REditor.m (toolbar) */
+"Adds a row below a group of selected rows or at the bottom of the data" = "Přidá řádek pod vybranou skupinu řádků nebo na konec dat";
+
+/* (MainMenu) Entry = "858.title"; Class = "NSMenuItem" */
+"Align Right" = "Zarovnat vpravo";
+
+/* (MainMenu) Entry = "1634.title"; Class = "NSMenuItem" */
+"All" = "Vše";
+
+/* (MiscPrefPane) Entry = "136.title"; Class = "NSButtonCell" */
+"Always apply" = "Vždy použít";
+
+/* (EditorPrefPane) Entry = "49.title"; Class = "NSButtonCell" */
+"Application" = "Aplikace";
+
+/* (MainMenu) Entry = "1125.title"; Class = "NSButtonCell" */
+"As defined by .libPaths()" = "Jak je definováno funkcí .libPaths()";
+
+/* (MiscPrefPane) Entry = "123.title"; Class = "NSButtonCell" */
+"Ask" = "Zeptat se";
+
+/* (MainMenu) Entry = "1122.title"; Class = "NSButtonCell" */
+"At System Level (in R framework)" = "Na systémové úrovni (v rámci R frameworku)";
+
+/* (MainMenu) Entry = "1123.title"; Class = "NSButtonCell" */
+"At User Level" = "Na uživatelské úrovni";
+
+/* From: RController.m (toolbar) */
+"Authentication" = "Autentifikace";
+
+/* From: RController.m (toolbar) */
+"Authorize R to run system commands as root" = "Povolit R spouštět systémové příkazy jako root";
+
+/* (EditorPrefPane) Entry = "229.title"; Class = "NSButtonCell" */
+"Auto-save documents" = "Automatické ukládání dokumentů";
+
+/* (MainMenu) Entry = "1657.title"; Class = "NSMenuItem" */
+"Balanced Brackets" = "Vyvážené závorky";
+
+/* (MainMenu) Entry = "816.title"; Class = "NSMenu" */
+/* (MainMenu) Entry = "844.title"; Class = "NSMenuItem" */
+"Baseline" = "Základní linie";
+
+/* (MainMenu) Entry = "830.title"; Class = "NSMenuItem" */
+"Bigger" = "Větší";
+
+/* (MainMenu) Entry = "1506.title"; Class = "NSButtonCell" */
+"Binary Format Packages" = "Balíčky v binárním formátu";
+
+/* (MainMenu) Entry = "563.title"; Class = "NSMenuItem" */
+"BioConductor (sources)" = "BioConductor (zdroje)";
+
+/* (MainMenu) Entry = "849.title"; Class = "NSMenuItem" */
+"Bold" = "Tučný";
+
+/* (QuartzPrefPane) Entry = "31.title"; Class = "NSMenuItem" */
+"Bottom Left" = "Dole vlevo";
+
+/* (QuartzPrefPane) Entry = "32.title"; Class = "NSMenuItem" */
+"Bottom Right" = "Dole vpravo";
+
+/* (QuartzPrefPane) Entry = "45.title"; Class = "NSBox" */
+"Box" = "Krabička";
+
+/* (MainMenu) Entry = "5.title"; Class = "NSMenuItem" */
+"Bring All to Front" = "Přenést vše dopředu";
+
+/* (EditorPrefPane) Entry = "96.title"; Class = "NSButtonCell" */
+"Built-in editor" = "Vestavěný editor";
+
+/* (EditorPrefPane) Entry = "35.title"; Class = "NSBox" */
+"Built-in editor preferences" = "Preference vestavěného editoru";
+
+/* (RDocument) Entry = "115.title"; Class = "NSMenuItem" */
+"CP1250" = "CP1250";
+
+/* (RDocument) Entry = "113.title"; Class = "NSMenuItem" */
+"CP1251" = "CP1251";
+
+/* (RDocument) Entry = "114.title"; Class = "NSMenuItem" */
+"CP1252" = "CP1252";
+
+/* (RDocument) Entry = "117.title"; Class = "NSMenuItem" */
+"CP1253" = "CP1253";
+
+/* (RDocument) Entry = "116.title"; Class = "NSMenuItem" */
+"CP1254" = "CP1254";
+
+/* (MainMenu) Entry = "541.title"; Class = "NSMenuItem" */
+"CRAN (binaries)" = "CRAN (binární soubory)";
+
+/* (MainMenu) Entry = "1108.title"; Class = "NSMenuItem" */
+"CRAN (sources)" = "CRAN (zdroje)";
+
+/* From: RController.m (doLoadHistory) */
+"Can't open history file %@" = "Nepodařilo se otevřít soubor historie %@";
+
+/* From: RController.m (didCloseAll) */
+/* (MainMenu) Entry = "1515.title"; Class = "NSButtonCell" */
+/* (RDocument) Entry = "94.title"; Class = "NSButtonCell" */
+"Cancel" = "Zrušit";
+
+/* Cancel Editing - label for a toolbar, keep short!
+   From: REditor.m (toolbar) */
+"Cancel Editing" = "Zrušit úpravy";
+
+/* (MainMenu) Entry = "1723.title"; Class = "NSMenuItem" */
+"Cancel Object Editing" = "Zrušit úpravy objektu";
+
+/* From: RDocumentWinCtrl.m (goHelpSearch) */
+"Cannot determine package for the topic." = "Nelze určit balíček pro toto téma.";
+
+/* From: main.m (sheetDidEnd) */
+"Cannot start R" = "Nepodařilo se spustit R";
+
+/* (MainMenu) Entry = "829.title"; Class = "NSMenuItem" */
+"Center" = "Vycentrovat";
+
+/* (QuartzPrefPane) Entry = "37.title"; Class = "NSMenuItem" */
+"Centered" = "Vycentrovaný";
+
+/* (MiscPrefPane) Entry = "133.title"; Class = "NSButtonCell" */
+/* (QuartzPrefPane) Entry = "120.title"; Class = "NSButtonCell" */
+"Change" = "Změnit";
+
+/* (MainMenu) Entry = "322.title"; Class = "NSMenuItem" */
+"Change Working Directory..." = "Změnit pracovní adresář...";
+
+/* From: RController.m (toolbar) */
+"Change the size of R console font" = "Změnit velikost písma konzole R";
+
+/* (MainMenu) Entry = "218.title"; Class = "NSMenuItem" */
+"Check For R Updates" = "Zkontrolovat aktualizace R";
+
+/* (RDocument) Entry = "161.title"; Class = "NSMenuItem" */
+"Check Rd Document" = "Zkontrolovat dokument Rd";
+
+/* From: RDocument.m (checkRdDocumentWithFilePath) */
+"Check Rd document…" = "Zkontrolovat dokument Rd…";
+
+/* From: RDocument.m (checkRdDocumentWithFilePath) */
+"Check was successful." = "Kontrola byla úspěšná.";
+
+/* From: RController.m (handleChooseFile)
+   From: RController.m (openDocument) */
+"Choose File" = "Vybrat soubor";
+
+/* From: RController.m (handleChooseFile) */
+"Choose New File Name" = "Zvolte nový název souboru";
+
+/* From: RController.m (setWorkingDir) */
+"Choose New Working Directory" = "Vyberte nový pracovní adresář";
+
+/* (MiscPrefPane) Entry = "145.title"; Class = "NSButtonCell" */
+"Cleanup history entries" = "Vyčistit položky historie";
+
+/* (MainMenu) Entry = "1066.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "1076.title"; Class = "NSMenuItem" */
+/* (RDocument) Entry = "83.title"; Class = "NSMenuItem" */
+"Clear" = "Vymazat";
+
+/* (MainMenu) Entry = "1128.title"; Class = "NSMenuItem" */
+"Clear Console" = "Vymazat konzoli";
+
+/* (MainMenu) Entry = "1495.title"; Class = "NSButtonCell" */
+"Clear History" = "Vymazat historii";
+
+/* (MainMenu) Entry = "126.title"; Class = "NSMenuItem" */
+"Clear Menu" = "Vymazat nabídku";
+
+/* From: RController.m (clearWorkSpace) */
+/* (MainMenu) Entry = "243.title"; Class = "NSMenuItem" */
+"Clear Workspace" = "Vymazat pracovní prostor";
+
+/* (SelectEncodingsPanel) Entry = "23.title"; Class = "NSButtonCell" */
+"Clear all" = "Vymazat vše";
+
+/* (MainMenu) Entry = "1580.title"; Class = "NSButtonCell" */
+/* (MainMenu) Entry = "73.title"; Class = "NSMenuItem" */
+"Close" = "Zavřít";
+
+/* (MainMenu) Entry = "1577.ibShadowedToolTip"; Class = "NSButton" */
+"Close Find Panel (⎋)" = "Zavřít panel hledání (⎋)";
+
+/* From: RController.m (didCloseAll) */
+"Closing R session" = "Uzavření R relace";
+
+/* (MainMenu) Entry = "342.headerCell.title"; Class = "NSTableColumn" */
+"Commands" = "Příkazy";
+
+/* (SyntaxColorsPrefPane) Entry = "119.title"; Class = "NSTextFieldCell" */
+"Comment" = "Komentář";
+
+/* (ColorsPrefPane) Entry = "26.title"; Class = "NSBox" */
+/* (SyntaxColorsPrefPane) Entry = "26.title"; Class = "NSBox" */
+"Colors" = "Barvy";
+
+/* From: HelpManager.m (showHelpFor) */
+"Can't find help for topic, would you like to expand the search?" = "Nepodařilo se najít nápovědu k tématu, chcete rozšířit hledání?";
+
+/* (EditorPrefPane) Entry = "47.title"; Class = "NSButtonCell" */
+"Command" = "Příkaz";
+
+/* From: REditor.m (toolbar) */
+/* (MainMenu) Entry = "1723.ibShadowedToolTip"; Class = "NSMenuItem" */
+"Cancels object editing without passing data back to R and closes the editor window" = "Zruší úpravy objektu bez odeslání dat zpět do R a zavře okno editoru";
+
+/* From: DataManager.m (showHelp)
+   From: HelpManager.m (showHelpUsingFile)
+   From: PackageManager.m (showInfo)
+   From: RDocumentWinCtrl.m (goHelpSearch) */
+"Cannot start HTML help server." = "Nepodařilo se spustit server HTML nápovědy.";
+
+/* From: PrefPanes/MiscPrefPane.m (chooseWorkingDir) */
+"Choose Initial Working Directory" = "Vybrat počáteční pracovní adresář";
+
+/* From: RController.m (hintForFunction)
+   From: RDocumentWinCtrl.m (hintForFunction) */
+"(arguments lookup is disabled while R is busy)" = "(vyhledávání argumentů je deaktivováno, zatímco R je zaneprázdněno)";
+
+/* Add row - label for a toolbar, keep short! */
+/* (MainMenu) Entry = "1720.title"; Class = "NSMenuItem" */
+"Add Row" = "Přidat řádek";
+
+/* (MainMenu) Entry = "834.title"; Class = "NSMenuItem" */
+"Align Left" = "Zarovnat vlevo";
+
+/* From: RController.m (clearWorkSpace) */
+"All objects in the workspace will be removed. Are you sure you want to proceed?" = "Všechny objekty v pracovním prostoru budou odstraněny. Jste si jisti, že chcete pokračovat?";
+
+/* From: WSBrowser.m (remObject) */
+"Are you sure you want to remove object '%@' from the workspace? You cannot undo this action!" = "Jste si jisti, že chcete odstranit objekt '%@' z pracovního prostoru? Tuto akci nelze vrátit zpět!";
+
+/* (MainMenu) Entry = "1513.alternateTitle"; Class = "NSButtonCell" */
+"Back" = "Zpět";
+
+/* (ColorsPrefPane) Entry = "76.title"; Class = "NSTextFieldCell" */
+/* (SyntaxColorsPrefPane) Entry = "125.title"; Class = "NSTextFieldCell" */
+"Background" = "Pozadí";
+
+/* (MainMenu) Entry = "542.title"; Class = "NSMenuItem" */
+"BioConductor (binaries)" = "BioConductor (binární soubory)";
