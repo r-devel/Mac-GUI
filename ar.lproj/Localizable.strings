@@ -20,7 +20,7 @@
 "(was default in RAqua)" = "(كان افتراضيا في RAqua)";
 
 /* (MiscPrefPane) Entry = "139.title"; Class = "NSTextFieldCell" */
-".Rhistory" = "Rhistory.";
+".Rhistory" = ". التاريخ";
 
 /* (MainMenu) Entry = "1499.title"; Class = "NSTextFieldCell" */
 "11" = "11";
@@ -73,7 +73,7 @@
 "<functions>" = "<دوال>";
 
 /* (MainMenu) Entry = "1677.ibShadowedToolTip"; Class = "NSButton" */
-"(⌘R)" = "(R⌘)";
+"(⌘R)" = "(⌘R)";
 
 /* (MainMenu) Entry = "312.title"; Class = "NSMenuItem" */
 "Activate Quartz Device Window" = "تنشيط نافذة جهاز Quartz";
@@ -110,7 +110,7 @@
 "All objects in the workspace will be removed. Are you sure you want to proceed?" = "ستتم إزالة جميع الكائنات الموجودة في workspace. هل أنت متأكد من أنك تريد المتابعة؟";
 
 /* (MainMenu) Entry = "1125.title"; Class = "NSButtonCell" */
-"As defined by .libPaths()" = "كما هو محدد بواسطة ()libPaths.";
+"As defined by .libPaths()" = "كما هو محدد بواسطة .libPaths()";
 
 /* From: WSBrowser.m (remObject) */
 "Are you sure you want to remove object '%@' from the workspace? You cannot undo this action!" = "هل أنت متأكد من أنك تريد إزالة الكائن \"% @\" من مساحة العمل؟ لا يمكنك التراجع عن هذا الإجراء!";
@@ -299,10 +299,389 @@
 "OK" = "موافق";
 
 /* Quartz preference pane */
-"PrefP-Quartz" = "Quartz";
+"PrefP-Quartz" = "مرو";
 
 /* From: RController.m (toolbar) */
-"Quartz" = "Quartz";
+"Quartz" = "مرو";
 
 /* From: RController.m (toolbar) */
 "Quit" = "انهاء";
+
+/* From: RController.m (didCloseAll) */
+"Closing R session" = "الجلسة الختامية R";
+
+/* (MainMenu) Entry = "1758.title"; Class = "NSMenu" */
+/* (MainMenu) Entry = "1757.title"; Class = "NSMenuItem" */
+"Code Folding Submenu" = "رمز القائمة الفرعية القابلة للطي";
+
+/* From: RDocument.m (reinterpretInEncoding) */
+"Couldn't reinterpret the text by using the encoding" = "تعذر إعادة تفسير النص باستخدام الترميز";
+
+/* From: PackageInstaller.m (installSelected)
+   From: PackageInstaller.m (updateAll) */
+"Currently it is not possible to install binary packages from a remote repository as root.\nPlease use the CRAN binary of R to allow admin users to install system-wide packages without becoming root. Alternatively you can either use command-line version of R as root or install the packages from local files." = "لا يمكن حاليا تثبيت الحزم الثنائية من مستودع بعيد كجذر.\nالرجاء استخدام ثنائي CRAN ل R للسماح للمستخدمين المسؤولين بتثبيت الحزم على مستوى النظام دون أن يصبحوا جذرا. بدلا من ذلك ، يمكنك إما استخدام إصدار سطر الأوامر من R كجذر أو تثبيت الحزم من الملفات المحلية.";
+
+/* (MainMenu) Entry = "164.title"; Class = "NSMenuItem" */
+"Delete" = "حذف";
+
+/* (MainMenu) Entry = "1496.title"; Class = "NSButtonCell" */
+"Delete entry" = "حذف الإدخال";
+
+/* (MainMenu) Entry = "447.headerCell.title"; Class = "NSTableColumn" */
+/* (MainMenu) Entry = "504.headerCell.title"; Class = "NSTableColumn" */
+/* (MainMenu) Entry = "701.headerCell.title"; Class = "NSTableColumn" */
+/* (Vignettes) Entry = "94.headerCell.title"; Class = "NSTableColumn" */
+"Description" = "وصف";
+
+/* From: PackageInstaller.m (checkOptions) */
+"Do you want me to remember the mirror you selected for future sessions?" = "هل تريدني أن أتذكر المرآة التي اخترتها للجلسات المستقبلية؟";
+
+/* (MainMenu) Entry = "577.ibShadowedToolTip"; Class = "NSButton" */
+"Downloads Selected Packages And Installs In Selected Location (↩)." = "تنزيل الحزم المحددة وتثبيتها في الموقع المحدد (↩).";
+
+/* (SelectEncodingsPanel) Entry = "21.title"; Class = "NSTextFieldCell" */
+"Enable the text encodings you would like to be able to use." = "قم بتمكين ترميزات النص التي ترغب في أن تكون قادرا على استخدامها.";
+
+/* (MainMenu) Entry = "1084.title"; Class = "NSMenuItem" */
+/* (RDocument) Entry = "60.title"; Class = "NSMenuItem" */
+"Fuzzy Search" = "بحث ضبابي";
+
+/* (MainMenu) Entry = "1511.placeholderString"; Class = "NSSearchFieldCell" */
+/* (MainMenu) Entry = "1490.placeholderString"; Class = "NSSearchFieldCell" */
+"Help Search" = "البحث عن المساعدة";
+
+/* (EditorPrefPane) Entry = "171.title"; Class = "NSButtonCell" */
+"Highlight current line" = "تسليط الضوء على السطر الحالي";
+
+/* (RDocument) Entry = "120.title"; Class = "NSMenuItem" */
+"ISO2022-JP" = "ISO2022-JP";
+
+/* (SyntaxColorsPrefPane) Entry = "118.title"; Class = "NSTextFieldCell" */
+"Identifier" = "المعرف";
+
+/* (MiscPrefPane) Entry = "34.title"; Class = "NSBox" */
+"Initial working directory" = "دليل العمل الأولي";
+
+/* From: REngine/Rcallbacks.m (RKL_METHOD_PREPEND) */
+"Select one" = "حدد واحدا";
+
+/* From: REngine/Rcallbacks.m (RKL_METHOD_PREPEND) */
+"Select one or more" = "حدد واحدا أو أكثر";
+
+/* (MainMenu) Entry = "1066.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "1076.title"; Class = "NSMenuItem" */
+/* (RDocument) Entry = "83.title"; Class = "NSMenuItem" */
+"Clear" = "واضح";
+
+/* (MainMenu) Entry = "1128.title"; Class = "NSMenuItem" */
+"Clear Console" = "مسح وحدة التحكم";
+
+/* (MainMenu) Entry = "1495.title"; Class = "NSButtonCell" */
+"Clear History" = "مسح التاريخ";
+
+/* (MainMenu) Entry = "126.title"; Class = "NSMenuItem" */
+"Clear Menu" = "مسح القائمة";
+
+/* From: RController.m (clearWorkSpace) */
+/* (MainMenu) Entry = "243.title"; Class = "NSMenuItem" */
+"Clear Workspace" = "مسح مساحة العمل";
+
+/* (SelectEncodingsPanel) Entry = "23.title"; Class = "NSButtonCell" */
+"Clear all" = "مسح الكل";
+
+/* (MainMenu) Entry = "1580.title"; Class = "NSButtonCell" */
+/* (MainMenu) Entry = "73.title"; Class = "NSMenuItem" */
+"Close" = "غلق";
+
+/* (MainMenu) Entry = "1577.ibShadowedToolTip"; Class = "NSButton" */
+"Close Find Panel (⎋)" = "إغلاق لوحة البحث (⎋)";
+
+/* (MiscPrefPane) Entry = "145.title"; Class = "NSButtonCell" */
+"Cleanup history entries" = "إدخالات محفوظات التنظيف";
+
+/* (ColorsPrefPane) Entry = "26.title"; Class = "NSBox" */
+/* (SyntaxColorsPrefPane) Entry = "26.title"; Class = "NSBox" */
+"Colors" = "الوان";
+
+/* (EditorPrefPane) Entry = "47.title"; Class = "NSButtonCell" */
+"Command" = "أمر";
+
+/* (MainMenu) Entry = "342.headerCell.title"; Class = "NSTableColumn" */
+"Commands" = "الاوامر";
+
+/* (SyntaxColorsPrefPane) Entry = "119.title"; Class = "NSTextFieldCell" */
+"Comment" = "التعليق";
+
+/* (MainMenu) Entry = "1207.title"; Class = "NSMenuItem" */
+"Comment-out" = "التعليق خارج";
+
+/* (MainMenu) Entry = "1013.title"; Class = "NSMenuItem" */
+"Complete" = "كامل";
+
+/* From: RDocument.m (reinterpretInEncoding) */
+"Convertion Error" = "خطأ في التحويل";
+
+/* (MainMenu) Entry = "157.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "1729.title"; Class = "NSMenuItem" */
+"Copy" = "نسخ";
+
+/* (MainMenu) Entry = "822.title"; Class = "NSMenuItem" */
+"Copy Ruler" = "نسخ المسطرة";
+
+/* (MainMenu) Entry = "859.title"; Class = "NSMenuItem" */
+"Copy Style" = "نمط النسخ";
+
+/* (MainMenu) Entry = "1730.title"; Class = "NSMenuItem" */
+"Copy as CSV" = "نسخ بتنسيق CSV";
+
+/* From: RDocument.m (revertToContentsOfURL) */
+"Couldn't revert to saved document" = "تعذر العودة إلى المستند المحفوظ";
+
+/* From: RController.m (toolbar) */
+"Create a new, empty document in the editor" = "إنشاء مستند جديد فارغ في المحرر";
+
+/* (SyntaxColorsPrefPane) Entry = "127.title"; Class = "NSTextFieldCell" */
+"Current Line" = "الخط الحالي";
+
+/* (MainMenu) Entry = "1489.title"; Class = "NSTextFieldCell" */
+"Current Working Directory" = "دليل العمل الحالي";
+
+/* (SyntaxColorsPrefPane) Entry = "129.title"; Class = "NSTextFieldCell" */
+"Cursor" = "المؤشر";
+
+/* (MainMenu) Entry = "1503.placeholderString"; Class = "NSTextFieldCell" */
+"Custom Repository URL" = "عنوان URL للمستودع المخصص";
+
+/* (SelectEncodingsPanel) Entry = "5.title"; Class = "NSWindow" */
+"Customize Encodings List" = "تخصيص قائمة الترميزات";
+
+/* From: RChooseEncodingPopupAccessory.m (setupPopUpCell)
+   From: RController.m (updateReInterpretEncodingMenu) */
+"Customize List…" = "تخصيص القائمة…";
+
+/* (MainMenu) Entry = "160.title"; Class = "NSMenuItem" */
+"Cut" = "قص";
+
+/* From: RDocument.m (insertRdDataTemplate) */
+"DATA_NAME" = "DATA_NAME";
+
+/* (EncodingPopupView) Entry = "59.title"; Class = "NSMenuItem" */
+"DO NOT LOCALIZE" = "عدم التعريب";
+
+/* (QuartzPrefPane) Entry = "125.title"; Class = "NSTextFieldCell" */
+"DPI:" = "البوصه:";
+
+/* (MainMenu) Entry = "501.headerCell.title"; Class = "NSTableColumn" */
+"Data" = "بيانات";
+
+/* (MainMenu) Entry = "267.title"; Class = "NSMenuItem" */
+"Data Manager" = "مدير البيانات";
+
+/* (MainMenu) Entry = "1651.title"; Class = "NSMenuItem" */
+"Decrease Indent" = "تقليل المسافة البادئة";
+
+/* (MiscPrefPane) Entry = "138.title"; Class = "NSButtonCell" */
+"Default" = "افتراضي";
+
+/* (MiscPrefPane) Entry = "106.title"; Class = "NSBox" */
+"Default CRAN mirror" = "مرآة CRAN الافتراضية";
+
+/* (MiscPrefPane) Entry = "23.title"; Class = "NSBox" */
+"Default Library Paths" = "مسارات المكتبة الافتراضية";
+
+/* (ColorsPrefPane) Entry = "78.title"; Class = "NSButtonCell" */
+/* (SyntaxColorsPrefPane) Entry = "120.title"; Class = "NSButtonCell" */
+"Defaults" = "افتراضيات";
+
+/* (RConsole) Entry = "5.title"; Class = "NSWindow" */
+"Console" = "وحدة التحكم";
+
+/* (MiscPrefPane) Entry = "132.title"; Class = "NSTextFieldCell" */
+"Directory:" = "دليل:";
+
+/* From: RController.m (didCloseAll) */
+"Don't Save" = "لا تحفظ";
+
+/* (MainMenu) Entry = "502.ibShadowedToolTip"; Class = "NSScrollView" */
+"Double click to load data in the R workspace. " = "انقر نقرا مزدوجا لتحميل البيانات في مساحة العمل R. ";
+
+/* (MiscPrefPane) Entry = "17.title"; Class = "NSBox" */
+"Drag & drop action during R start-up" = "سحب وإسقاط العمل أثناء بدء تشغيل R";
+
+/* (RDocument) Entry = "110.title"; Class = "NSMenuItem" */
+"EUC (jp)" = "إي يو سي (اليابان)";
+
+/* From: WSBrowser.m (toolbar) */
+/* (MainMenu) Entry = "163.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "169.title"; Class = "NSMenu" */
+"Edit" = "حرر";
+
+/* (MainMenu) Entry = "1740.title"; Class = "NSMenuItem" */
+"Edit Column Names" = "تحرير أسماء الأعمدة";
+
+/* From: WSBrowser.m (toolbar) */
+"Edit Object" = "تحرير كائن";
+
+/* (MainMenu) Entry = "221.title"; Class = "NSMenuItem" */
+"Edit Object…" = "تحرير الكائن…";
+
+/* From: WSBrowser.m (toolbar) */
+"Edit the selected object" = "تحرير الكائن المحدد";
+
+/* (MainMenu) Entry = "1071.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "1078.title"; Class = "NSMenuItem" */
+/* (RDocument) Entry = "82.title"; Class = "NSMenuItem" */
+"Empty" = "أجوف";
+
+/* From: RDocumentController.m (encodingAccessory) */
+"Encoding" = "ترميز";
+
+/* (EncodingPopupView) Entry = "60.ibShadowedToolTip"; Class = "NSPopUpButton" */
+"Encoding to use if there is no encoding specified with the file." = "ترميز للاستخدام إذا لم يكن هناك ترميز محدد مع الملف.";
+
+/* (EncodingPopupView) Entry = "78.title"; Class = "NSTextFieldCell" */
+/* (RDocument) Entry = "108.title"; Class = "NSTextFieldCell" */
+"Encoding:" = "ترميز:";
+
+/* From: RController.m (applicationDidFinishLaunching)
+   From: RController.m (windowDidExitFullScreen) */
+"Enter Full Screen" = "أدخل ملء الشاشة";
+
+/* From: RController.m (sheetDidEnd)
+   From: RDocument.m (convertRd2PDF) */
+"Error" = "خطأ";
+
+/* (MainMenu) Entry = "1082.title"; Class = "NSMenuItem" */
+/* (RDocument) Entry = "59.title"; Class = "NSMenuItem" */
+"Exact Search" = "البحث الدقيق";
+
+/* (MainMenu) Entry = "890.title"; Class = "NSMenuItem" */
+"Execute" = "أعدم";
+
+/* From: RController.m (applicationDidFinishLaunching)
+   From: RController.m (windowDidEnterFullScreen) */
+"Exit Full Screen" = "الخروج من وضع ملء الشاشة";
+
+/* (EditorPrefPane) Entry = "97.title"; Class = "NSButtonCell" */
+"External Editor" = "محرر خارجي";
+
+/* (EditorPrefPane) Entry = "37.title"; Class = "NSBox" */
+"External editor settings" = "إعدادات المحرر الخارجي";
+
+/* From: RDocument.m (insertRdFunctionTemplate) */
+"FUNCTION_NAME" = "FUNCTION_NAME";
+
+/* From: PackageInstaller.m (reloadURL) */
+"Fetching Package List Failed" = "فشل جلب قائمة الحزم";
+
+/* (MainMenu) Entry = "168.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "159.title"; Class = "NSMenu" */
+"Find" = "وجد";
+
+/* (MainMenu) Entry = "167.title"; Class = "NSMenuItem" */
+"Find Next" = "البحث عن التالي";
+
+/* (MainMenu) Entry = "162.title"; Class = "NSMenuItem" */
+"Find Previous" = "البحث السابق";
+
+/* (MainMenu) Entry = "154.title"; Class = "NSMenuItem" */
+"Find…" = "وجد…";
+
+/* (MainMenu) Entry = "1764.title"; Class = "NSMenuItem" */
+"Fold" = "ثنى";
+
+/* (MainMenu) Entry = "1759.title"; Class = "NSMenuItem" */
+"Fold Level 0" = "مستوى الطي 0";
+
+/* (MainMenu) Entry = "1760.title"; Class = "NSMenuItem" */
+"Fold Level 1" = "أضعاف المستوى 1";
+
+/* (MainMenu) Entry = "1769.title"; Class = "NSMenuItem" */
+"Fold Level 2" = "مستوى الطي 2";
+
+/* (MainMenu) Entry = "1770.title"; Class = "NSMenuItem" */
+"Fold Level 3" = "أضعاف المستوى 3";
+
+/* (MainMenu) Entry = "836.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "854.title"; Class = "NSMenu" */
+"Font" = "الخط";
+
+/* From: RController.m (toolbar) */
+"Font Size" = "حجم الخط";
+
+/* (MainMenu) Entry = "1497.title"; Class = "NSTextFieldCell" */
+"Font Size:" = "حجم الخط:";
+
+/* (EditorPrefPane) Entry = "177.title"; Class = "NSTextFieldCell" */
+"Font:" = "الخط:";
+
+/* (MainMenu) Entry = "833.title"; Class = "NSMenuItem" */
+/* (MainMenu) Entry = "828.title"; Class = "NSMenu" */
+"Format" = "تنسيق";
+
+/* (MainMenu) Entry = "1752.title"; Class = "NSMenuItem" */
+"Format Source Code" = "تنسيق التعليمات البرمجية المصدر";
+
+/* From: RDocumentWinCtrl.m (tidyRCode) */
+"Formatting…" = "التنسيق…";
+
+/* (MainMenu) Entry = "1514.alternateTitle"; Class = "NSButtonCell" */
+"Forward" = "أمامي";
+
+/* From: REditorToolbar.m (updatePreferences) */
+"Functions" = "وظائف";
+
+/* (MainMenu) Entry = "1502.title"; Class = "NSButtonCell" */
+"Fwd >" = "> الدفع الأمامي";
+
+/* (MainMenu) Entry = "1505.title"; Class = "NSButtonCell" */
+"Get List" = "احصل على القائمة";
+
+/* (MainMenu) Entry = "317.title"; Class = "NSMenuItem" */
+"Get Working Directory" = "الحصول على دليل العمل";
+
+/* (MainMenu) Entry = "1049.title"; Class = "NSMenuItem" */
+"Go To Line…" = "اذهب إلى الخط…";
+
+/* (RDocument) Entry = "96.title"; Class = "NSTextFieldCell" */
+"Go to line:" = "اذهب إلى الخط:";
+
+/* (RDocument) Entry = "153.title"; Class = "NSMenuItem" */
+"HTML Preview" = "معاينة HTML";
+
+/* (MainMenu) Entry = "687.title"; Class = "NSWindow" */
+"Help Search Topics" = "مساعدة البحث في المواضيع";
+
+/* From: RController.m (handleCustomPrint) */
+"Help for the topic \"%@\" was not found." = "لم يتم العثور على تعليمات للموضوع \"٪ @\".";
+
+/* (RDocument) Entry = "92.placeholderString"; Class = "NSSearchFieldCell" */
+"Help search" = "البحث عن المساعدة";
+
+/* From: RController.m (handleCustomPrint) */
+"Help topic not found" = "لم يتم العثور على موضوع التعليمات";
+
+/* (MainMenu) Entry = "145.title"; Class = "NSMenuItem" */
+"Hide Others" = "إخفاء الآخرين";
+
+/* (MainMenu) Entry = "134.title"; Class = "NSMenuItem" */
+"Hide R" = "إخفاء R";
+
+/* (EditorPrefPane) Entry = "147.title"; Class = "NSButtonCell" */
+"Highlight bracket pairs" = "تمييز أزواج الأقواس";
+
+/* From: RController.m (toolbar) */
+/* (MiscPrefPane) Entry = "44.title"; Class = "NSBox" */
+"History" = "تاريخ";
+
+/* (MainMenu) Entry = "1124.title"; Class = "NSButtonCell" */
+"In Other Location (Will Be Asked Upon Installation)" = "في مكان آخر (سيتم سؤاله عند التثبيت)";
+
+/* (MainMenu) Entry = "1650.title"; Class = "NSMenuItem" */
+"Increase Indent" = "زيادة المسافة البادئة";
+
+/* (EditorPrefPane) Entry = "173.title"; Class = "NSButtonCell" */
+"Indent new lines" = "إضافة مسافة بادئة إلى أسطر جديدة";
+
+/* (ColorsPrefPane) Entry = "73.title"; Class = "NSTextFieldCell" */
+"Input" = "الادخال";
