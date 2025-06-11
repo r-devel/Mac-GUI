@@ -20,7 +20,7 @@
 "(⌘R)" = "(⌘R)";
 
 /* (MiscPrefPane) Entry = "139.title"; Class = "NSTextFieldCell" */
-".Rhistory" = ". Historia historyczna";
+".Rhistory" = ".Rhistory";
 
 /* (MainMenu) Entry = "1499.title"; Class = "NSTextFieldCell" */
 "11" = "11";
@@ -73,7 +73,7 @@
 "Add Column (CHARACTER)" = "Dodaj kolumnę (ZNAK)";
 
 /* (MainMenu) Entry = "1718.title"; Class = "NSMenuItem" */
-"Add Column (NUMERIC)" = "Dodaj kolumnę (NUMERIC)";
+"Add Column (NUMERIC)" = "Dodaj kolumnę (LICZBA)";
 
 /* From: REditor.m (toolbar) */
 "Add New Row" = "Dodaj nowy wiersz";
@@ -108,7 +108,7 @@
 "Package" = "Pakiet";
 
 /* From: REditor.m (toolbar) */
-"Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%@)\tAdd column of type ‘CHARACTER’\n(%@)\tAdd column of type ‘NUMERIC’" = "Dodaje nową kolumnę po prawej stronie grupy zaznaczonych kolumn lub na końcu danych. Nowy typ kolumny jest zgodny z kolumną po lewej stronie.\n\n(%1$@)\tDodaj kolumnę typu \"ZNAK\"\n(%2$@)\tDodaj kolumnę typu \"NUMERYCZNY\"";
+"Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%@)\tAdd column of type ‘CHARACTER’\n(%@)\tAdd column of type ‘NUMERIC’" = "Dodaje nową kolumnę po prawej stronie grupy zaznaczonych kolumn lub na końcu danych. Nowy typ kolumny jest zgodny z kolumną po lewej stronie.\n\n(%1$@)\tDodaj kolumnę typu \"ZNAK\"\n(%2$@)\tDodaj kolumnę typu \"LICZBA\"";
 
 /* (MainMenu) Entry = "1671.title"; Class = "NSButtonCell" */
 "Activate SearchField ⇧⌘H" = "Aktywuj Pole Szukania ⇧⌘H";
@@ -182,7 +182,7 @@
 "Box" = "Pudełko";
 
 /* (MainMenu) Entry = "5.title"; Class = "NSMenuItem" */
-"Bring All to Front" = "Przenieś wszystko na przód";
+"Bring All to Front" = "Przenieś wszystko na wierzch";
 
 /* (EditorPrefPane) Entry = "96.title"; Class = "NSButtonCell" */
 "Built-in editor" = "Wbudowany edytor";
@@ -212,7 +212,7 @@
 "CRAN (sources)" = "CRAN (źródła)";
 
 /* From: HelpManager.m (showHelpFor) */
-"Can't find help for topic, would you like to expand the search?" = "Nie można znaleźć pomocy na dany temat, czy chciałbyś rozszerzyć wyszukiwanie?";
+"Can't find help for topic, would you like to expand the search?" = "Nie można znaleźć pomocy na dany temat, czy chcesz rozszerzyć wyszukiwanie?";
 
 /* From: RController.m (doLoadHistory) */
 "Can't open history file %@" = "Nie można otworzyć pliku historii %@";
