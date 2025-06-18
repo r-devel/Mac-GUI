@@ -777,7 +777,7 @@
 "Lower" = "Obniż";
 
 /* (MainMenu) Entry = "818.title"; Class = "NSMenuItem" */
-"Loosen" = "Rozluźnij";
+"Loosen" = "Luźniejsze";
 
 /* (RDocument) Entry = "105.title"; Class = "NSMenuItem" */
 "MacRoman" = "MacRoman";
@@ -1008,7 +1008,7 @@
 "R Data Editor" = "Edytor danych języka R";
 
 /* From: REditor.m (initData) */
-"R Data Editor - error while reading object data" = "R Data Editor - błąd podczas odczytu danych obiektu";
+"R Data Editor - error while reading object data" = "Edytor danych języka R - błąd podczas odczytu danych obiektu";
 
 /* From: REditor.m (windowShouldClose) */
 "R Data Editor couldn't write object data" = "Edytor danych języka R nie może zapisać danych obiektu";
@@ -1131,7 +1131,7 @@
 "Reverting Document" = "Przywracanie dokumentu";
 
 /* (MainMenu) Entry = "658.title"; Class = "NSMenuItem" */
-"Run X11 Server" = "Uruchamianie serwera X11";
+"Run X11 Server" = "Uruchom serwer X11";
 
 /* Global string @ */
 /* (MainMenu) Entry = "75.title"; Class = "NSMenuItem" */
@@ -1388,7 +1388,7 @@
 "Uncomment" = "Usuń komentarz";
 
 /* (MainMenu) Entry = "841.title"; Class = "NSMenuItem" */
-"Tighten" = "Dokręcić";
+"Tighten" = "Zwarte";
 
 /* (MainMenu) Entry = "158.title"; Class = "NSMenuItem" */
 "Undo" = "Cofnij";
@@ -1421,7 +1421,7 @@
 "Use Selection for Find" = "Użyj zaznaczenia do wyszukiwania";
 
 /* From: NSString_RAdditions.m (evaluateAsBashCommandWithEnvironment) */
-"User Termination" = "Rezygnacja użytkownika";
+"User Termination" = "Przerwane przez Użytkownika";
 
 /* From: RDocument.m (insertRdDataTemplate) */
 "VAR_NAME_1" = "VAR_NAME_1";
@@ -1430,11 +1430,11 @@
 "VAR_NAME_2" = "VAR_NAME_2";
 
 /* (Vignettes) Entry = "96.headerCell.title"; Class = "NSTableColumn" */
-"Vignette" = "Winieta";
+"Vignette" = "Ilustracja";
 
 /* (MainMenu) Entry = "1110.title"; Class = "NSMenuItem" */
 /* (Vignettes) Entry = "5.title"; Class = "NSWindow" */
-"Vignettes" = "Winiety";
+"Vignettes" = "Ilustracje";
 
 /* From: RController.m (applicationDidFinishLaunching) */
 "WARNING: You're using a non-UTF8 locale, therefore only ASCII characters will work.\nPlease read R for Mac OS X FAQ (see Help) section 9 and adjust your system preferences accordingly.\n" = "UWAGA: Używasz ustawień regionalnych innych niż UTF8, dlatego będą działać tylko znaki ASCII.\nZapoznaj się z sekcją 9 Często zadawane pytania dotyczące języka R dla systemu Mac OS X (patrz Pomoc) i dostosuj odpowiednie preferencje systemowe.\n";
@@ -1595,7 +1595,7 @@
 "Remove Object from Workspace" = "Usuń obiekt z obszaru roboczego";
 
 /* (MiscPrefPane) Entry = "142.title"; Class = "NSButtonCell" */
-"Remove duplicate entries in history" = "Usuwań zduplikowane wpisy w historii";
+"Remove duplicate entries in history" = "Usuń powtórzone wpisy w historii";
 
 /* From: Quartz/RQuartz.m (saveDocument) */
 "Save Content of Quartz Device to PDF file" = "Zapisz zawartość urządzenia Quartz do pliku PDF";
