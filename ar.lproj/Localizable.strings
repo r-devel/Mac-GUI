@@ -653,7 +653,7 @@
 "Help Search Topics" = "مساعدة البحث في المواضيع";
 
 /* From: RController.m (handleCustomPrint) */
-"Help for the topic \"%@\" was not found." = "لم يتم العثور على تعليمات للموضوع \"٪ @\".";
+"Help for the topic \"%@\" was not found." = "لم يتم العثور على تعليمات للموضوع \"% @\".";
 
 /* (RDocument) Entry = "92.placeholderString"; Class = "NSSearchFieldCell" */
 "Help search" = "البحث عن المساعدة";
