@@ -73,7 +73,7 @@
 "(Return)" = "↩";
 
 /* (MiscPrefPane) Entry = "130.title"; Class = "NSTextFieldCell" */
-"(was default in RAqua)" = "alapértelmezett volt a RAqua-ban)";
+"(was default in RAqua)" = "(alapértelmezett volt a RAqua-ban)";
 
 /* (MainMenu) Entry = "1677.ibShadowedToolTip"; Class = "NSButton" */
 "(⌘R)" = "(⌘R)";
@@ -98,14 +98,14 @@
 "< Back" = "< Vissza";
 
 /* From: RController.m (showWorkingDir) */
-"<deleted>" = "< törölve>";
+"<deleted>" = "<törölve>";
 
 /* From: RDocumentWinCtrl.m (functionReset) */
 /* (RDocument) Entry = "45.title"; Class = "NSMenuItem" */
-"<functions>" = "< függvények>";
+"<functions>" = "<függvények>";
 
 /* From: RDocumentWinCtrl.m (functionReset) */
-"<sections>" = "< függvények>";
+"<sections>" = "<függvények>";
 
 /* From: SearchTable.m (show) */
 "<unknown>" = "<unknown>";
