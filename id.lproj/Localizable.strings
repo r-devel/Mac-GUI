@@ -58,3 +58,8 @@
 "All objects in the workspace will be removed. Are you sure you want to proceed?" = "Semua objek di workspace akan dihapus. Apakah kamu yakin ingin melanjutkan?";
 "%@ - Active" = "%@ - Aktif";
 "Ask" = "Tanya";
+"<unknown>" = "<Tidak diketahui>";
+"(arguments lookup is disabled while R is busy)" = "(pencarian argumen dinonaktifkan saat R sibuk)";
+"(was default in RAqua)" = "(adalah default di RAqua)";
+"(⌘R)" = "(⌘R)";
+"<functions>" = "<fungsi>";
