@@ -2,7 +2,7 @@
 
 
 /* (MiscPrefPane) Entry = "139.title"; Class = "NSTextFieldCell" */
-".Rhistory" = ".Rhistory";
+".Rhistory" = ". Tarihçe";
 
 /* (MainMenu) Entry = "1677.ibShadowedToolTip"; Class = "NSButton" */
 "(⌘R)" = "(⌘R)";
@@ -51,10 +51,10 @@
 "About R" = "R Hakkında";
 
 /* (MainMenu) Entry = "312.title"; Class = "NSMenuItem" */
-"Activate Quartz Device Window" = "Quartz Cihaz Penceresini Etkinleştirin";
+"Activate Quartz Device Window" = "Kuvars Cihaz Penceresini Etkinleştir";
 
 /* (MainMenu) Entry = "1671.title"; Class = "NSButtonCell" */
-"Activate SearchField ⇧⌘H" = "Arama Alanını Etkinleştir ⇧⌘H";
+"Activate SearchField ⇧⌘H" = "SearchField'ı etkinleştir ⇧⌘H";
 
 /* From: REditor.m (toolbar) */
 "Add Column" = "Sütun Ekle";
@@ -98,7 +98,7 @@
 
 /* From: RController.m (hintForFunction)
    From: RDocumentWinCtrl.m (hintForFunction) */
-"(arguments lookup is disabled while R is busy)" = "(R meşgulken değişken arama fonksiyonları devre dışı bırakılır)";
+"(arguments lookup is disabled while R is busy)" = "(R meşgulken bağımsız değişken araması devre dışı bırakılır)";
 
 /* Add column - label for a toolbar, keep short! */
 "Add Col" = "Sütun Ekle";
