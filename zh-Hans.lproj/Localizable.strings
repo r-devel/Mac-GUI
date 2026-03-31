@@ -2,3 +2,5 @@
 "%@ - Inactive" = "%@ - 未激活";
 "(Return)" = "(↩)";
 ".Rhistory" = ".Rhistory";
+"(arguments lookup is disabled while R is busy)" = "（R 繁忙时禁用参数查找）";
+"(was default in RAqua)" = "（在 RAqua 中默认）";
