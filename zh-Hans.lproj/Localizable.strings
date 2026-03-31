@@ -1,3 +1,4 @@
 "%@ - Active" = "%@ - 已激活";
 "%@ - Inactive" = "%@ - 未激活";
 "(Return)" = "(↩)";
+".Rhistory" = ".Rhistory";
