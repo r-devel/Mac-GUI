@@ -1,6 +1,6 @@
-"(was default in RAqua)" = "(var standardværdi i RAqua)";
-"%@ - Active" = "%@ - aktiv";
-"%@ - Inactive" = "%@ - inaktiv";
+"(was default in RAqua)" = "(var misligholdelse i RAqua)";
+"%@ - Active" = "%@ - Aktiv";
+"%@ - Inactive" = "%@ - Inaktiv";
 "(Return)" = "(↩)";
 "(⌘R)" = "(⌘R)";
 ".Rhistory" = ".Rhistory";
@@ -21,3 +21,4 @@
 "Add New Row" = "Tilføj ny række";
 "Add Row" = "Tilføj række";
 "Add ~/Library/R…" = "Tilføj ~/Library/R…";
+"(arguments lookup is disabled while R is busy)" = "(argumentopslag er deaktiveret, mens R er optaget)";
