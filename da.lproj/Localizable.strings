@@ -80,3 +80,12 @@
 "Current Working Directory" = "Nuværende arbejdsmappe";
 "Select one or more" = "Vælg én eller flere";
 "Select one" = "Vælg én";
+"Colors" = "Farver";
+"Command" = "Kommando";
+"Commands" = "Kommandoer";
+"Comment" = "Kommentar";
+"Convertion Error" = "Konverteringsfejl";
+"Copy as CSV" = "Kopier som CSV";
+"Couldn't revert to saved document" = "Kunne ikke vende tilbage til gemt dokument";
+"Create a new, empty document in the editor" = "Opret et nyt, tomt dokument i editoren";
+"Cursor" = "Markør";
