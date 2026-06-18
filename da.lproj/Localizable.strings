@@ -66,4 +66,5 @@
 "Check was successful." = "Kontrollen lykkedes.";
 "Choose File" = "Vælg fil";
 "Choose New File Name" = "Vælg nyt filnavn";
-"Choose New Working Directory" = "Vælg nyt arbejdsområde";
+"Choose New Working Directory" = "Vælg ny arbejdsmappe";
+"Close" = "Luk";
