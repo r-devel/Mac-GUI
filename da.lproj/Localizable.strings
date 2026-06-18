@@ -74,4 +74,9 @@
 "Clear Menu" = "Ryd menu";
 "Clear Workspace" = "Ryd arbejdsområde";
 "Clear all" = "Ryd alt";
-"Closing R session" = "Afsluttende R-session";
+"Closing R session" = "Afslutter R-session";
+"Console" = "Konsol";
+"Current Line" = "Nuværende linje";
+"Current Working Directory" = "Nuværende arbejdsmappe";
+"Select one or more" = "Vælg én eller flere";
+"Select one" = "Vælg én";
