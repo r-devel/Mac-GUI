@@ -3,7 +3,7 @@
 "%@ - Inactive" = "%@ - Inaktiv";
 "(Return)" = "(↩)";
 "(⌘R)" = "(⌘R)";
-".Rhistory" = ". Historie";
+".Rhistory" = ".Rhistory";
 "11" = "11";
 "12" = "12";
 "250" = "250";
@@ -24,3 +24,6 @@
 "(arguments lookup is disabled while R is busy)" = "(argumentopslag er deaktiveret, mens R er optaget)";
 "Add Column (CHARACTER)" = "Tilføj kolonne (TEGN)";
 "Adds a row below a group of selected rows or at the bottom of the data" = "Tilføjer en række under en gruppe af markerede rækker eller nederst i dataene";
+"Activate Quartz Device Window" = "Aktiver Quartz enhedsvindue";
+"Activate SearchField ⇧⌘H" = "Aktiver søgefelt ⇧⌘H";
+"Add Col" = "Tilføj kol.";
