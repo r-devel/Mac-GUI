@@ -12,7 +12,7 @@
 "< Back" = "< Tilbage";
 "<deleted>" = "<slettet>";
 "<functions>" = "<funktioner>";
-"<sections>" = "<afsnit>";
+"<sections>" = "<sektioner>";
 "<unknown>" = "<ukendt>";
 ">" = ">";
 "About R" = "Omkring R";
@@ -20,5 +20,7 @@
 "Add Column (NUMERIC)" = "Tilføj kolonne (NUMERISK)";
 "Add New Row" = "Tilføj ny række";
 "Add Row" = "Tilføj række";
-"Add ~/Library/R…" = "Tilføj ~/Library/R…";
+"Add ~/Library/R…" = "Tilføj ~/Bibliotek/R…";
 "(arguments lookup is disabled while R is busy)" = "(argumentopslag er deaktiveret, mens R er optaget)";
+"Add Column (CHARACTER)" = "Tilføj kolonne (TEGN)";
+"Adds a row below a group of selected rows or at the bottom of the data" = "Tilføjer en række under en gruppe af markerede rækker eller nederst i dataene";
