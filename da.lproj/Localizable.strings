@@ -55,3 +55,13 @@
 "Bold" = "Fed";
 "Box" = "Boks";
 "Cancel Editing" = "Afslut redigering";
+"Cannot start HTML help server." = "Kan ikke starte HTML-hjælpeserveren.";
+"Cannot start R" = "Kan ikke starte R";
+"Centered" = "Centreret";
+"Change Working Directory..." = "Skift arbejdsmappe...";
+"Change the size of R console font" = "Skift størrelsen på R-konsollens skrifttype";
+"Check For R Updates" = "Søg efter R-opdateringer";
+"Check Rd Document" = "Tjek Rd-dokument";
+"Check Rd document…" = "Tjek Rd-dokument…";
+"Check was successful." = "Kontrollen lykkedes.";
+"Choose File" = "Vælg Filer";
