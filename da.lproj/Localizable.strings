@@ -90,3 +90,5 @@
 "Create a new, empty document in the editor" = "Opret et nyt, tomt dokument i editoren";
 "Cursor" = "Markør";
 "Cancel" = "Afbryd";
+"Clear" = "Ryd";
+"Find" = "Find";
