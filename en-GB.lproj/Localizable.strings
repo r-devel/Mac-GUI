@@ -7,3 +7,4 @@
 /* (MainMenu) Entry = "500.headerCell.title"; Class = "NSTableColumn" */
 /* (Vignettes) Entry = "95.headerCell.title"; Class = "NSTableColumn" */
 "Package" = "Package";
+"%@ - Active" = "%@ - Active";
