@@ -1158,7 +1158,7 @@
 "Reset Working Directory" = "Ré-initialiser le Répertoire de Travail";
 
 /* From: Quartz/RDeviceView.m (drawRect) */
-"Resizing to %g x %g" = "Ajuster la taille à %g x %g";
+"Resizing to %g x %g" = "Ajustement de la taille à %1$g x %2$g";
 
 /* (QuartzPrefPane) Entry = "123.title"; Class = "NSButtonCell" */
 "Restore defaults" = "Valeurs par défaut";
