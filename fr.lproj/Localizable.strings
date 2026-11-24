@@ -87,10 +87,10 @@
 "Add ~/Library/R…" = "Ajouter ~/Library/R…";
 
 /* From: REditor.m (toolbar) */
-"Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%@)\tAdd column of type ‘CHARACTER’\n(%@)\tAdd column of type ‘NUMERIC’" = "Ajoute une nouvelle colonne à droite d'un groupe de colonnes sélectionnées ou juste à la fin des données. Le type de la nouvelle colonne correspond à celui qui lui est attribué.\n\n(%1$@)\tAjouter une colonne de type ‘CHARACTER’\n(%2$@)\tAjouter une colonne de type ‘NUMERIC’";
+"Adds a new column to the right of a group of selected columns or just at the end of the data. The new column type complies with that column left of it.\n\n(%@)\tAdd column of type ‘CHARACTER’\n(%@)\tAdd column of type ‘NUMERIC’" = "Ajoute une nouvelle colonne à droite d'un groupe de colonnes sélectionnées ou juste à la fin des données. Le type de la nouvelle colonne correspond à celui de la colonne à sa gauche.\n\n(%1$@)\tAjouter une colonne de type ‘CHARACTER’\n(%2$@)\tAjouter une colonne de type ‘NUMERIC’";
 
 /* From: REditor.m (toolbar) */
-"Adds a row below a group of selected rows or at the bottom of the data" = "Insère une ligne en dessous de l'ensemble des lignes sélectionnées ou en bas du tableau des données";
+"Adds a row below a group of selected rows or at the bottom of the data" = "Insère une ligne en dessous du groupe de lignes sélectionnées ou à la fin d'un tableau de données";
 
 /* (MainMenu) Entry = "834.title"; Class = "NSMenuItem" */
 "Align Left" = "Aligner à Gauche";
@@ -99,7 +99,7 @@
 "Align Right" = "Aligner à Droite";
 
 /* (MainMenu) Entry = "1634.title"; Class = "NSMenuItem" */
-"All" = "Tous";
+"All" = "Tout";
 
 /* From: RController.m (clearWorkSpace) */
 "All objects in the workspace will be removed. Are you sure you want to proceed?" = "Tous les objets de l'espace de travail vont être supprimés. Le voulez-vous vraiment?";
@@ -111,7 +111,7 @@
 "Application" = "Application";
 
 /* From: WSBrowser.m (remObject) */
-"Are you sure you want to remove object '%@' from the workspace? You cannot undo this action!" = "Êtes-vous sûr de vouloir supprimer l'objet '%@' de l'espace de travail ? Vous ne pourrez pas annuler cette action !";
+"Are you sure you want to remove object '%@' from the workspace? You cannot undo this action!" = "Êtes-vous sûr de vouloir supprimer l'objet '%@' de l'espace de travail ? Vous ne pourrez pas annuler cette action !";
 
 /* (MainMenu) Entry = "1125.title"; Class = "NSButtonCell" */
 "As defined by .libPaths()" = "Comme défini dans .libPaths()";
@@ -120,10 +120,10 @@
 "Ask" = "Demander";
 
 /* (MainMenu) Entry = "1122.title"; Class = "NSButtonCell" */
-"At System Level (in R framework)" = "Au niveau Système (dans le framework R)";
+"At System Level (in R framework)" = "Au niveau Système (dans l'environnement R)";
 
 /* (MainMenu) Entry = "1123.title"; Class = "NSButtonCell" */
-"At User Level" = "Au niveau utilisateur";
+"At User Level" = "Au niveau Utilisateur";
 
 /* From: RController.m (toolbar) */
 "Authentication" = "Autentification";
@@ -202,10 +202,10 @@
 "CRAN (sources)" = "CRAN (sources)";
 
 /* From: HelpManager.m (showHelpFor) */
-"Can't find help for topic, would you like to expand the search?" = "Il n'existe pas d'aide sur le sujet, voulez vous étendre la recherche ?";
+"Can't find help for topic, would you like to expand the search?" = "Il n'existe pas d'aide sur le sujet, voulez vous étendre la recherche ?";
 
 /* From: RController.m (doLoadHistory) */
-"Can't open history file %@" = "Impossible d'ouvrir le fichier d'historique %@";
+"Can't open history file %@" = "Impossible d'ouvrir le fichier de l'historique %@";
 
 /* From: RController.m (didCloseAll) */
 /* (MainMenu) Entry = "1515.title"; Class = "NSButtonCell" */
@@ -249,10 +249,10 @@
 "Change Working Directory..." = "Changer de Répertoire de Travail…";
 
 /* From: RController.m (toolbar) */
-"Change the size of R console font" = "Modification de la taile du texte de la console de R";
+"Change the size of R console font" = "Modifier la taile de la police de la console R";
 
 /* (MainMenu) Entry = "218.title"; Class = "NSMenuItem" */
-"Check For R Updates" = "Mise à jour de R";
+"Check For R Updates" = "Recherche des Mises à jour de R";
 
 /* (RDocument) Entry = "161.title"; Class = "NSMenuItem" */
 "Check Rd Document" = "Vérifier le document Rd";
@@ -265,7 +265,7 @@
 
 /* From: RController.m (handleChooseFile)
    From: RController.m (openDocument) */
-"Choose File" = "Sélectionner Fichier";
+"Choose File" = "Sélectionner un Fichier";
 
 /* From: PrefPanes/MiscPrefPane.m (chooseWorkingDir) */
 "Choose Initial Working Directory" = "Sélectionner le répertoire initial de travail";
@@ -277,7 +277,7 @@
 "Choose New Working Directory" = "Sélectionner un nouveau répertoire de travail";
 
 /* From: RController.m (doLoadHistory) */
-"Choose history File" = "Sélectionner Fichier Historique";
+"Choose history File" = "Sélectionner un Fichier historique";
 
 /* (MiscPrefPane) Entry = "145.title"; Class = "NSButtonCell" */
 "Cleanup history entries" = "Effacer les entrées de l'Historique";
